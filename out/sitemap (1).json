@@ -1,0 +1,8580 @@
+[
+	{
+		"name": "حراج السيارات",
+		"locale": { "ar": "حراج السيارات", "en": "Cars" },
+		"id": "1",
+		"mom_id": "0",
+		"children": [
+			{
+				"name": "تويوتا",
+				"locale": { "en": "Toyota", "ar": "تويوتا" },
+				"id": "5",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "لاندكروزر",
+						"locale": { "ar": "لاندكروزر", "en": "Land Cruiser" },
+						"id": "90",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "كامري",
+						"locale": { "en": "Camry", "ar": "كامري" },
+						"id": "87",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "افالون",
+						"locale": { "en": "Avalon", "ar": "افالون" },
+						"id": "75",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "هايلوكس",
+						"locale": { "en": "Hilux", "ar": "هايلوكس" },
+						"id": "93",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "كورولا",
+						"locale": { "en": "Corolla", "ar": "كورولا" },
+						"id": "89",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "اف جي",
+						"locale": { "en": "FJ Cruiser", "ar": "اف جي" },
+						"id": "96",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "ربع",
+						"locale": {
+							"en": "Land Cruiser 70 Series",
+							"ar": "ربع"
+						},
+						"id": "95",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "شاص",
+						"locale": {
+							"en": "Land Cruiser 70 Series Pick up",
+							"ar": "شاص"
+						},
+						"id": "94",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "يارس",
+						"locale": { "en": "Yaris", "ar": "يارس" },
+						"id": "91",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "برادو",
+						"locale": { "en": "Land Cruiser Prado", "ar": "برادو" },
+						"id": "81",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "فورتونر",
+						"locale": { "en": "Fortuner", "ar": "فورتشنر" },
+						"id": "86",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "اوريون",
+						"locale": { "en": "Aurion", "ar": "اوريون" },
+						"id": "77",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "كرسيدا",
+						"locale": { "en": "Cressida", "ar": "كرسيدا" },
+						"id": "88",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "ساكويا",
+						"locale": { "en": "Sequoia", "ar": "سيكويا" },
+						"id": "84",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "باص",
+						"locale": { "en": "Bus", "ar": "باص" },
+						"id": "80",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "اينوفا",
+						"locale": { "en": "Innova", "ar": "انوفا" },
+						"id": "79",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "راف فور",
+						"locale": { "en": "RAV4", "ar": "راف فور" },
+						"id": "83",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "XA",
+						"locale": { "en": "XA", "ar": "XA" },
+						"id": "76",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "ايكو",
+						"locale": { "en": "Eco", "ar": "ايكو" },
+						"id": "78",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "تندرا",
+						"locale": { "en": "Tundra", "ar": "تندرا" },
+						"id": "97",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "بريفيا",
+						"locale": { "en": "Previa", "ar": "بريفيا" },
+						"id": "82",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "سوبرا",
+						"locale": { "en": "Supra", "ar": "سوبرا" },
+						"id": "85",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "تويوتا 86",
+						"locale": { "en": "Toyota 86", "ar": "تويوتا 86" },
+						"id": "526",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "افانزا",
+						"locale": { "en": "Avanza", "ar": "افانزا" },
+						"id": "533",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "هايلاندر",
+						"locale": { "en": "Highlander", "ar": "هايلاندر" },
+						"id": "92",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "بريوس",
+						"locale": { "en": "Prius", "ar": "بريوس" },
+						"id": "546",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "راش",
+						"locale": { "en": "Rush", "ar": "راش" },
+						"id": "547",
+						"mom_id": "5",
+						"type": "CAR"
+					},
+					{
+						"name": "جرانفيا",
+						"id": "578",
+						"mom_id": "5",
+						"locale": { "en": "Granvia", "ar": "جرانفيا" },
+						"type": "CAR"
+					},
+					{
+						"name": "C-HR",
+						"id": "781",
+						"mom_id": "5",
+						"locale": { "en": "C-HR", "ar": "C-HR" },
+						"type": "CAR"
+					},
+					{
+						"name": "كورولا كروس",
+						"id": "935",
+						"mom_id": "5",
+						"locale": {
+							"en": "Corolla Cross",
+							"ar": "كورولا كروس"
+						},
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "فورد",
+				"locale": { "en": "Ford", "ar": "فورد" },
+				"id": "10",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "كراون فكتوريا",
+						"locale": {
+							"en": "Crown Victoria",
+							"ar": "كراون فكتوريا"
+						},
+						"id": "144",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "جراند ماركيز",
+						"locale": {
+							"en": "Grand Marquis",
+							"ar": "جراند ماركيز"
+						},
+						"id": "149",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "اكسبلورر",
+						"locale": { "en": "Explorer", "ar": "اكسبلورر" },
+						"id": "148",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "توروس",
+						"locale": { "en": "Taurus", "ar": "توروس" },
+						"id": "159",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "اكسبيدشن",
+						"locale": { "en": "Expedition", "ar": "اكسبيدشن" },
+						"id": "147",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "موستنج",
+						"locale": { "en": "Mustang", "ar": "موستنج" },
+						"id": "152",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "ايدج",
+						"locale": { "en": "Edge", "ar": "ايدج" },
+						"id": "166",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "f150",
+						"locale": { "en": "f150", "ar": "f150" },
+						"id": "154",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "فيوجن",
+						"locale": { "en": "Fusion", "ar": "فيوجن" },
+						"id": "165",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "وندستار",
+						"locale": { "en": "Windstar", "ar": "وندستار" },
+						"id": "161",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "فلكس",
+						"locale": { "en": "Flex", "ar": "فلكس" },
+						"id": "164",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "فوكس",
+						"locale": { "en": "Fox", "ar": "فوكس" },
+						"id": "163",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "مونديو",
+						"locale": { "en": "Mondeo", "ar": "مونديو" },
+						"id": "151",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "f250",
+						"locale": { "en": "f250", "ar": "f250" },
+						"id": "155",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "f350",
+						"locale": { "en": "f350", "ar": "f350" },
+						"id": "156",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "رينجر",
+						"locale": { "en": "Ranger", "ar": "رينجر" },
+						"id": "157",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "اكس كورجن",
+						"locale": { "en": "X Corgan", "ar": "اكس كورجن" },
+						"id": "146",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "بيك اب",
+						"locale": { "en": "Pick up", "ar": "بيك اب" },
+						"id": "153",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "اسكيب",
+						"locale": { "en": "Escape", "ar": "اسكيب" },
+						"id": "145",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "سبلاش",
+						"locale": { "en": "Splash", "ar": "سبلاش" },
+						"id": "158",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "كوجر",
+						"locale": { "en": "Panther", "ar": "كوجر" },
+						"id": "162",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "ثندريبرد",
+						"locale": { "en": "Thunderbird", "ar": "ثندريبرد" },
+						"id": "160",
+						"mom_id": "10",
+						"type": "CAR"
+					},
+					{
+						"name": "F450",
+						"id": "595",
+						"mom_id": "10",
+						"locale": { "en": "F450", "ar": "F450" },
+						"type": "CAR"
+					},
+					{
+						"name": "F550",
+						"id": "594",
+						"mom_id": "10",
+						"locale": { "en": "F550", "ar": "F550" },
+						"type": "CAR"
+					},
+					{
+						"name": "إسكورت",
+						"id": "593",
+						"mom_id": "10",
+						"locale": { "en": "Escort", "ar": "إسكورت" },
+						"type": "CAR"
+					},
+					{
+						"name": "إيكوسبورت",
+						"id": "597",
+						"mom_id": "10",
+						"locale": { "en": "Ecosport", "ar": "إيكوسبورت" },
+						"type": "CAR"
+					},
+					{
+						"name": "فان فورد",
+						"id": "596",
+						"mom_id": "10",
+						"locale": { "en": "vans ford", "ar": "فان فورد" },
+						"type": "CAR"
+					},
+					{
+						"name": "فيجو",
+						"id": "592",
+						"mom_id": "10",
+						"locale": { "en": "Figo", "ar": "فيجو" },
+						"type": "CAR"
+					},
+					{
+						"name": "برونكو",
+						"id": "978",
+						"mom_id": "10",
+						"locale": { "en": "Bronco", "ar": "برونكو" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "شيفروليه",
+				"locale": { "en": "Chevrolet", "ar": "شيفروليه" },
+				"id": "12",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "كابريس",
+						"locale": { "en": "Caprice", "ar": "كابريس" },
+						"id": "115",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "تاهو",
+						"locale": { "en": "Tahoe", "ar": "تاهو" },
+						"id": "107",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "سوبربان",
+						"locale": { "en": "Suburban", "ar": "سوبربان" },
+						"id": "111",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "لومينا",
+						"locale": { "en": "Lumina", "ar": "لومينا" },
+						"id": "483",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "سلفرادو",
+						"locale": { "en": "Salvador", "ar": "سلفرادو" },
+						"id": "123",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "كمارو",
+						"locale": { "en": "Camaro", "ar": "كمارو" },
+						"id": "119",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "بليزر",
+						"locale": { "en": "Blazer", "ar": "بليزر" },
+						"id": "106",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "ابيكا",
+						"locale": { "en": "Epica", "ar": "ابيكا" },
+						"id": "99",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "ماليبو",
+						"locale": { "en": "Malibu", "ar": "ماليبو" },
+						"id": "121",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "افيو",
+						"locale": { "en": "Aveo", "ar": "افيو" },
+						"id": "100",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "كروز",
+						"locale": { "en": "Cruze", "ar": "كروز" },
+						"id": "116",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "اوبترا",
+						"locale": { "en": "Optra", "ar": "اوبترا" },
+						"id": "105",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "تريل بليزر",
+						"locale": { "en": "Trail Blazer", "ar": "تريل بليزر" },
+						"id": "108",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "افلانش",
+						"locale": { "en": "Avalanche", "ar": "افلانش" },
+						"id": "102",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "كورفيت",
+						"locale": { "en": "Corvette", "ar": "كورفيت" },
+						"id": "120",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "فان",
+						"locale": { "en": "فان", "ar": "فان" },
+						"id": "112",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "امبالا",
+						"locale": { "en": "Impala", "ar": "امبالا" },
+						"id": "104",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "ترافيرس",
+						"locale": { "en": "Traverse", "ar": "ترافيرس" },
+						"id": "109",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "ابلاندر",
+						"locale": { "en": "Uplander", "ar": "ابلاندر" },
+						"id": "98",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "اكسبرس فان",
+						"locale": { "en": "Express Van", "ar": "اكسبرس فان" },
+						"id": "103",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "فنشر",
+						"locale": { "en": "فنشر", "ar": "فنشر" },
+						"id": "113",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "كابتيفا",
+						"locale": { "en": "Captiva", "ar": "كابتيفا" },
+						"id": "114",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "استروفان",
+						"locale": { "en": "Astro Van", "ar": "استروفان" },
+						"id": "101",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "سونيك",
+						"locale": { "en": "Sonic", "ar": "سونيك" },
+						"id": "122",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "سبارك",
+						"locale": { "en": "Spark", "ar": "سبارك" },
+						"id": "124",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "كرفان",
+						"locale": { "en": "Caravan", "ar": "كرفان" },
+						"id": "118",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "كافالير",
+						"locale": { "en": "Cavalier", "ar": "كافالير" },
+						"id": "117",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "كولورادو",
+						"locale": { "en": "Colorado", "ar": "كولورادو" },
+						"id": "479",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "جي فان",
+						"locale": { "en": "جي فان", "ar": "جي فان" },
+						"id": "110",
+						"mom_id": "12",
+						"type": "CAR"
+					},
+					{
+						"name": "اكوينوكس",
+						"id": "580",
+						"mom_id": "12",
+						"locale": { "en": "Equinox", "ar": "اكوينوكس" },
+						"type": "CAR"
+					},
+					{
+						"name": "بولت",
+						"id": "579",
+						"mom_id": "12",
+						"locale": { "en": "Bolt", "ar": "بولت" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "قطع غيار وملحقات",
+				"locale": {
+					"en": "Parts & Accessories",
+					"ar": "قطع غيار وملحقات"
+				},
+				"id": "59",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "قطع غيار",
+						"locale": { "en": "Spare parts", "ar": "قطع غيار" },
+						"id": "421",
+						"mom_id": "59",
+						"type": "PART"
+					},
+					{
+						"name": "جنوط",
+						"locale": { "en": "Rounds", "ar": "جنوط" },
+						"id": "415",
+						"mom_id": "59",
+						"type": "PART"
+					},
+					{
+						"name": "لوحة مميزه",
+						"locale": { "en": "Special panel", "ar": "لوحة مميزه" },
+						"id": "417",
+						"mom_id": "59",
+						"type": "PART"
+					},
+					{
+						"name": "خدمات فحص السيارات",
+						"locale": {
+							"en": "Car inspection services",
+							"ar": "خدمات فحص السيارات"
+						},
+						"id": "420",
+						"mom_id": "59",
+						"type": "PART"
+					},
+					{
+						"name": "شاشه",
+						"locale": { "en": "Monitor", "ar": "شاشه" },
+						"id": "419",
+						"mom_id": "59",
+						"type": "PART"
+					},
+					{
+						"name": "مسجل",
+						"locale": { "en": "Registered", "ar": "مسجل" },
+						"id": "418",
+						"mom_id": "59",
+						"type": "PART"
+					}
+				],
+				"type": "PART"
+			},
+			{
+				"name": "نيسان",
+				"locale": { "en": "Nissan", "ar": "نيسان" },
+				"id": "6",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "باترول",
+						"locale": { "en": "Patrol", "ar": "باترول" },
+						"id": "132",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "ددسن",
+						"locale": { "en": "DDSEN", "ar": "ددسن" },
+						"id": "126",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "التيما",
+						"locale": { "en": "Tama", "ar": "التيما" },
+						"id": "128",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "مكسيما",
+						"locale": { "en": "Maxima", "ar": "مكسيما" },
+						"id": "125",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "باثفندر",
+						"locale": { "en": "Pathfinder", "ar": "باثفندر" },
+						"id": "130",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "صني",
+						"locale": { "en": "Sunny", "ar": "صني" },
+						"id": "134",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "ارمادا",
+						"locale": { "en": "Armada", "ar": "ارمادا" },
+						"id": "138",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "اكستيرا",
+						"locale": { "en": "Xterra", "ar": "اكستيرا" },
+						"id": "136",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "فئة Z",
+						"locale": { "en": "Class Z", "ar": "فئة Z" },
+						"id": "143",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "نيسان شاص",
+						"locale": { "en": "Nissan Shass", "ar": "نيسان شاص" },
+						"id": "140",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "نافارا",
+						"locale": { "en": "Navara", "ar": "نافارا" },
+						"id": "139",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "مورانو",
+						"locale": { "en": "Murano", "ar": "مورانو" },
+						"id": "127",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "تيدا",
+						"locale": { "en": "Tiida", "ar": "تيدا" },
+						"id": "137",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "اورفان",
+						"locale": { "en": "Orphan", "ar": "اورفان" },
+						"id": "141",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "سكاي لاين",
+						"locale": { "en": "Skyline", "ar": "سكاي لاين" },
+						"id": "133",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "سنترا",
+						"locale": { "en": "Sentra", "ar": "سنترا" },
+						"id": "504",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "اكس تريل",
+						"locale": { "en": "X Trail", "ar": "اكس تريل" },
+						"id": "135",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "جلوريا",
+						"locale": { "en": "Gloria", "ar": "جلوريا" },
+						"id": "129",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "بريميرا",
+						"locale": { "en": "Primera", "ar": "بريميرا" },
+						"id": "131",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "تيرانو",
+						"locale": { "en": "Terrano", "ar": "تيرانو" },
+						"id": "142",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "قاشقاي",
+						"locale": { "en": "Qashqai", "ar": "قاشقاي" },
+						"id": "492",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "جوك",
+						"locale": { "en": "Juke", "ar": "جوك" },
+						"id": "550",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "كيكس",
+						"locale": { "en": "Kicks", "ar": "كيكس" },
+						"id": "551",
+						"mom_id": "6",
+						"type": "CAR"
+					},
+					{
+						"name": "370Z",
+						"id": "583",
+						"mom_id": "6",
+						"locale": { "en": "370Z", "ar": "370Z" },
+						"type": "CAR"
+					},
+					{
+						"name": "GTR",
+						"id": "581",
+						"mom_id": "6",
+						"locale": { "en": "GTR", "ar": "GTR" },
+						"type": "CAR"
+					},
+					{
+						"name": "سليفيان",
+						"id": "584",
+						"mom_id": "6",
+						"locale": { "en": "Civilian", "ar": "سيفيليان" },
+						"type": "CAR"
+					},
+					{
+						"name": "باترول سفاري",
+						"id": "783",
+						"mom_id": "6",
+						"locale": {
+							"en": "Patrol Safari",
+							"ar": "باترول سفاري"
+						},
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "هونداي",
+				"locale": { "en": "Hyundai", "ar": "هيونداي" },
+				"id": "16",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "سوناتا",
+						"locale": { "en": "Sonata", "ar": "سوناتا" },
+						"id": "208",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "النترا",
+						"locale": { "en": "Elantra", "ar": "النترا" },
+						"id": "211",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "اكسنت",
+						"locale": { "en": "Accent", "ar": "اكسنت" },
+						"id": "207",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "ازيرا",
+						"locale": { "en": "Azera", "ar": "ازيرا" },
+						"id": "212",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "هونداي H1",
+						"locale": { "en": "Hyundai H1", "ar": "هونداي H1" },
+						"id": "217",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "سنتافي",
+						"locale": { "en": "Sentavi", "ar": "سنتافي" },
+						"id": "209",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "تسكان",
+						"locale": { "en": "Tucson", "ar": "توسان" },
+						"id": "215",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "فيلوستر",
+						"locale": { "en": "Veloster", "ar": "فيلوستر" },
+						"id": "220",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "تراجيت",
+						"locale": { "en": "Trajet", "ar": "تراجيت" },
+						"id": "222",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "i40",
+						"locale": { "en": "i40", "ar": "i40" },
+						"id": "223",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "سنتنيال",
+						"locale": { "en": "Centennial", "ar": "سنتنيال" },
+						"id": "221",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "كوبية",
+						"locale": { "en": "Coupe", "ar": "كوبية" },
+						"id": "210",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "i10",
+						"locale": { "en": "i10", "ar": "i10" },
+						"id": "505",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "فيراكروز",
+						"locale": { "en": "Veracruz", "ar": "فيراكروز" },
+						"id": "219",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "تيريكان",
+						"locale": { "en": "Terracan", "ar": "تيريكان" },
+						"id": "214",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "ماتريكس",
+						"locale": { "en": "Matrix", "ar": "ماتريكس" },
+						"id": "216",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "جالوير",
+						"locale": { "en": "Galloper", "ar": "جالوير" },
+						"id": "213",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "كونا",
+						"locale": { "en": "Kona", "ar": "كونا" },
+						"id": "548",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "كريتا",
+						"locale": { "en": "Creta", "ar": "كريتا" },
+						"id": "549",
+						"mom_id": "16",
+						"type": "CAR"
+					},
+					{
+						"name": "باليسيد",
+						"id": "585",
+						"mom_id": "16",
+						"locale": { "en": "Palisade", "ar": "باليسيد" },
+						"type": "CAR"
+					},
+					{
+						"name": "جراند سنتافي",
+						"id": "782",
+						"mom_id": "16",
+						"locale": {
+							"en": "Grand Santa Fe",
+							"ar": "جراند سنتافي"
+						},
+						"type": "CAR"
+					},
+					{
+						"name": "i30",
+						"id": "933",
+						"mom_id": "16",
+						"locale": { "en": "i30", "ar": "i30" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "جنسس",
+				"locale": { "en": "Genesis", "ar": "جنسس" },
+				"id": "218",
+				"mom_id": "1",
+				"type": "CAR",
+				"children": [
+					{
+						"name": "G70",
+						"id": "900",
+						"mom_id": "218",
+						"locale": { "en": "G70", "ar": "G70" },
+						"type": "CAR"
+					},
+					{
+						"name": "G80",
+						"id": "899",
+						"mom_id": "218",
+						"locale": { "en": "G80", "ar": "G80" },
+						"type": "CAR"
+					},
+					{
+						"name": "G90",
+						"id": "898",
+						"mom_id": "218",
+						"locale": { "en": "G90", "ar": "G90" },
+						"type": "CAR"
+					},
+					{
+						"name": "GV80",
+						"id": "901",
+						"mom_id": "218",
+						"locale": { "en": "GV80", "ar": "GV80" },
+						"type": "CAR"
+					},
+					{
+						"name": "GV70",
+						"id": "984",
+						"mom_id": "218",
+						"locale": { "en": "Gv70", "ar": "GV70" },
+						"type": "CAR"
+					}
+				]
+			},
+			{
+				"name": "لكزس",
+				"locale": { "en": "Lexus", "ar": "لكزس" },
+				"id": "7",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "LS",
+						"locale": { "en": "LS", "ar": "LS" },
+						"id": "198",
+						"mom_id": "7",
+						"type": "CAR"
+					},
+					{
+						"name": "LX",
+						"locale": { "en": "LX", "ar": "LX" },
+						"id": "199",
+						"mom_id": "7",
+						"type": "CAR"
+					},
+					{
+						"name": "ES",
+						"locale": { "en": "ES", "ar": "ES" },
+						"id": "195",
+						"mom_id": "7",
+						"type": "CAR"
+					},
+					{
+						"name": "GS",
+						"locale": { "en": "GS", "ar": "GS" },
+						"id": "196",
+						"mom_id": "7",
+						"type": "CAR"
+					},
+					{
+						"name": "IS",
+						"locale": { "en": "IS", "ar": "IS" },
+						"id": "197",
+						"mom_id": "7",
+						"type": "CAR"
+					},
+					{
+						"name": "RX",
+						"locale": { "en": "RX", "ar": "RX" },
+						"id": "200",
+						"mom_id": "7",
+						"type": "CAR"
+					},
+					{
+						"name": "GX",
+						"locale": { "en": "GX", "ar": "GX" },
+						"id": "201",
+						"mom_id": "7",
+						"type": "CAR"
+					},
+					{
+						"name": "SC",
+						"locale": { "en": "SC", "ar": "SC" },
+						"id": "202",
+						"mom_id": "7",
+						"type": "CAR"
+					},
+					{
+						"name": "NX",
+						"locale": { "en": "NX", "ar": "NX" },
+						"id": "545",
+						"mom_id": "7",
+						"type": "CAR"
+					},
+					{
+						"name": "LC",
+						"id": "617",
+						"mom_id": "7",
+						"locale": { "en": "LC", "ar": "LC" },
+						"type": "CAR"
+					},
+					{
+						"name": "RC",
+						"id": "615",
+						"mom_id": "7",
+						"locale": { "en": "RC", "ar": "RC" },
+						"type": "CAR"
+					},
+					{
+						"name": "RCF",
+						"id": "616",
+						"mom_id": "7",
+						"locale": { "en": "RCF", "ar": "RCF" },
+						"type": "CAR"
+					},
+					{
+						"name": "UX",
+						"id": "614",
+						"mom_id": "7",
+						"locale": { "en": "UX", "ar": "UX" },
+						"type": "CAR"
+					},
+					{
+						"name": "GSF",
+						"id": "665",
+						"mom_id": "7",
+						"locale": { "en": "GSF", "ar": "GSF" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "جي ام سي",
+				"locale": { "en": "GMC", "ar": "جي ام سي" },
+				"id": "13",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "يوكن",
+						"locale": { "en": "Yukon", "ar": "يوكن" },
+						"id": "184",
+						"mom_id": "13",
+						"type": "CAR"
+					},
+					{
+						"name": "سوبربان",
+						"locale": { "en": "Superban", "ar": "سوبربان" },
+						"id": "111",
+						"mom_id": "13",
+						"type": "CAR"
+					},
+					{
+						"name": "سييرا",
+						"locale": { "en": "Sierra", "ar": "سييرا" },
+						"id": "186",
+						"mom_id": "13",
+						"type": "CAR"
+					},
+					{
+						"name": "بيك أب",
+						"locale": { "en": "Pick up", "ar": "بيك أب" },
+						"id": "183",
+						"mom_id": "13",
+						"type": "CAR"
+					},
+					{
+						"name": "انفوي",
+						"locale": { "en": "Envoy", "ar": "انفوي" },
+						"id": "179",
+						"mom_id": "13",
+						"type": "CAR"
+					},
+					{
+						"name": "اكاديا",
+						"locale": { "en": "Acadia", "ar": "اكاديا" },
+						"id": "185",
+						"mom_id": "13",
+						"type": "CAR"
+					},
+					{
+						"name": "فان",
+						"locale": { "en": "Van", "ar": "فان" },
+						"id": "112",
+						"mom_id": "13",
+						"type": "CAR"
+					},
+					{
+						"name": "سافانا",
+						"locale": { "en": "Savana", "ar": "سافانا" },
+						"id": "182",
+						"mom_id": "13",
+						"type": "CAR"
+					},
+					{
+						"name": "سفاري",
+						"locale": { "en": "Safari", "ar": "سفاري" },
+						"id": "181",
+						"mom_id": "13",
+						"type": "CAR"
+					},
+					{
+						"name": "تيرين",
+						"locale": { "en": "Terrain", "ar": "تيرين" },
+						"id": "178",
+						"mom_id": "13",
+						"type": "CAR"
+					},
+					{
+						"name": "جيمي",
+						"locale": { "en": "Jimmy", "ar": "جيمي" },
+						"id": "180",
+						"mom_id": "13",
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "شاحنات ومعدات ثقيلة",
+				"locale": {
+					"en": "Trucks and heavy equipment",
+					"ar": "شاحنات ومعدات ثقيلة"
+				},
+				"id": "60",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "شاحنة مرسيدس",
+						"locale": {
+							"en": "Mercedes Truck",
+							"ar": "شاحنة مرسيدس"
+						},
+						"id": "423",
+						"mom_id": "60",
+						"type": "TRUCK"
+					},
+					{
+						"name": "معدات ثقيلة",
+						"locale": {
+							"en": "Heavy Equipment",
+							"ar": "معدات ثقيلة"
+						},
+						"id": "434",
+						"mom_id": "60",
+						"type": "TRUCK"
+					},
+					{
+						"name": "قلاب",
+						"locale": { "en": "Tipper", "ar": "قلاب" },
+						"id": "429",
+						"mom_id": "60",
+						"type": "TRUCK"
+					},
+					{
+						"name": "شيول",
+						"locale": { "en": "Shiol", "ar": "شيول" },
+						"id": "428",
+						"mom_id": "60",
+						"type": "TRUCK"
+					},
+					{
+						"name": "سطحه",
+						"locale": { "en": "Car Carrier", "ar": "سطحه" },
+						"id": "427",
+						"mom_id": "60",
+						"type": "TRUCK"
+					},
+					{
+						"name": "شاحنة فولفو",
+						"locale": { "en": "Volvo Trucks", "ar": "شاحنة فولفو" },
+						"id": "422",
+						"mom_id": "60",
+						"type": "TRUCK"
+					},
+					{
+						"name": "شاحنة مان",
+						"locale": { "en": "MAN Truck", "ar": "شاحنة مان" },
+						"id": "424",
+						"mom_id": "60",
+						"type": "TRUCK"
+					},
+					{
+						"name": "معدات زراعية",
+						"locale": {
+							"en": "Agricultural equipment",
+							"ar": "معدات زراعية"
+						},
+						"id": "433",
+						"mom_id": "60",
+						"type": "TRUCK"
+					},
+					{
+						"name": "كارافان",
+						"locale": { "en": "Caravan", "ar": "كارافان" },
+						"id": "332",
+						"mom_id": "60",
+						"type": "TRUCK"
+					},
+					{
+						"name": "رافعة",
+						"locale": { "en": "Crane", "ar": "رافعة" },
+						"id": "430",
+						"mom_id": "60",
+						"type": "TRUCK"
+					},
+					{
+						"name": "بلدوزر",
+						"locale": { "en": "Bulldozer", "ar": "بلدوزر" },
+						"id": "426",
+						"mom_id": "60",
+						"type": "TRUCK"
+					},
+					{
+						"name": "كرين",
+						"locale": { "en": "Crane", "ar": "كرين" },
+						"id": "431",
+						"mom_id": "60",
+						"type": "TRUCK"
+					},
+					{
+						"name": "كسارة",
+						"locale": { "en": "Crusher", "ar": "كسارة" },
+						"id": "432",
+						"mom_id": "60",
+						"type": "TRUCK"
+					},
+					{
+						"name": "شاحنة سكانيا",
+						"locale": {
+							"en": "Scania Trucks",
+							"ar": "شاحنة سكانيا"
+						},
+						"id": "425",
+						"mom_id": "60",
+						"type": "TRUCK"
+					},
+					{
+						"name": "بوكلين",
+						"id": "886",
+						"mom_id": "60",
+						"locale": { "en": "Poclain", "ar": "بوكلين" },
+						"type": "TRUCK"
+					},
+					{
+						"name": "شاحنة هينو",
+						"id": "887",
+						"mom_id": "60",
+						"locale": { "en": "Hino Truck", "ar": "شاحنة هينو" },
+						"type": "TRUCK"
+					}
+				],
+				"type": "TRUCK"
+			},
+			{
+				"name": "مرسيدس",
+				"locale": { "en": "Mercedes", "ar": "مرسيدس" },
+				"id": "8",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "S",
+						"locale": { "en": "S", "ar": "S" },
+						"id": "502",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "E",
+						"locale": { "en": "E", "ar": "E" },
+						"id": "484",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "SE",
+						"locale": { "en": "SE", "ar": "SE" },
+						"id": "167",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "SEL",
+						"locale": { "en": "SEL", "ar": "SEL" },
+						"id": "169",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "AMG",
+						"locale": { "en": "AMG", "ar": "AMG" },
+						"id": "176",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "مرسيدس G",
+						"locale": { "en": "Mercedes-Benz G", "ar": "مرسيدس G" },
+						"id": "177",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "C",
+						"locale": { "en": "C", "ar": "C" },
+						"id": "496",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "SL",
+						"locale": { "en": "SL", "ar": "SL" },
+						"id": "168",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "CLS",
+						"locale": { "en": "CLS", "ar": "CLS" },
+						"id": "173",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "ML",
+						"locale": { "en": "ML", "ar": "ML" },
+						"id": "174",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "CL",
+						"locale": { "en": "CL", "ar": "CL" },
+						"id": "171",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "CLK",
+						"locale": { "en": "CLK", "ar": "CLK" },
+						"id": "172",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "SEC",
+						"locale": { "en": "SEC", "ar": "SEC" },
+						"id": "170",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "SLK",
+						"locale": { "en": "SLK", "ar": "SLK" },
+						"id": "175",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "الفئة A",
+						"locale": { "en": "A-Class", "ar": "الفئة A" },
+						"id": "558",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "GLS",
+						"locale": { "en": "GLS", "ar": "GLS" },
+						"id": "556",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "GLE",
+						"locale": { "en": "GLE", "ar": "GLE" },
+						"id": "555",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "GLC",
+						"locale": { "en": "GLC", "ar": "GLC" },
+						"id": "554",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "GLA",
+						"locale": { "en": "GLA", "ar": "GLA" },
+						"id": "553",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "CLA",
+						"locale": { "en": "CLA", "ar": "CLA" },
+						"id": "552",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "الفئة V",
+						"locale": { "en": "V-Class", "ar": "الفئة V" },
+						"id": "557",
+						"mom_id": "8",
+						"type": "CAR"
+					},
+					{
+						"name": "B",
+						"id": "601",
+						"mom_id": "8",
+						"locale": { "en": "B", "ar": "B" },
+						"type": "CAR"
+					},
+					{
+						"name": "GL",
+						"id": "602",
+						"mom_id": "8",
+						"locale": { "en": "GL", "ar": "GL" },
+						"type": "CAR"
+					},
+					{
+						"name": "GLK",
+						"id": "603",
+						"mom_id": "8",
+						"locale": { "en": "GLK", "ar": "GLK" },
+						"type": "CAR"
+					},
+					{
+						"name": "GT مرسيدس",
+						"id": "600",
+						"mom_id": "8",
+						"locale": { "en": "GT", "ar": "GT مرسيدس" },
+						"type": "CAR"
+					},
+					{
+						"name": "GTS",
+						"id": "605",
+						"mom_id": "8",
+						"locale": { "en": "GTS", "ar": "GTS" },
+						"type": "CAR"
+					},
+					{
+						"name": "R",
+						"id": "604",
+						"mom_id": "8",
+						"locale": { "en": "R", "ar": "R" },
+						"type": "CAR"
+					},
+					{
+						"name": "SLC",
+						"id": "598",
+						"mom_id": "8",
+						"locale": { "en": "SLC", "ar": "SLC" },
+						"type": "CAR"
+					},
+					{
+						"name": "فان سبرنتر",
+						"id": "606",
+						"mom_id": "8",
+						"locale": { "en": "Van Sprinter", "ar": "فان سبرنتر" },
+						"type": "CAR"
+					},
+					{
+						"name": "مايباخ",
+						"id": "599",
+						"mom_id": "8",
+						"locale": { "en": "Maybach", "ar": "مايباخ" },
+						"type": "CAR"
+					},
+					{
+						"name": "GLB",
+						"id": "977",
+						"mom_id": "8",
+						"locale": { "en": "GLB", "ar": "GLB" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "هوندا",
+				"locale": { "en": "Honda", "ar": "هوندا" },
+				"id": "17",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "اكورد",
+						"locale": { "en": "Accord", "ar": "اكورد" },
+						"id": "224",
+						"mom_id": "17",
+						"type": "CAR"
+					},
+					{
+						"name": "سيفيك",
+						"locale": { "en": "Civic", "ar": "سيفيك" },
+						"id": "225",
+						"mom_id": "17",
+						"type": "CAR"
+					},
+					{
+						"name": "اوديسي",
+						"locale": { "en": "Odyssey", "ar": "اوديسي" },
+						"id": "228",
+						"mom_id": "17",
+						"type": "CAR"
+					},
+					{
+						"name": "CRV",
+						"locale": { "en": "CRV", "ar": "CRV" },
+						"id": "226",
+						"mom_id": "17",
+						"type": "CAR"
+					},
+					{
+						"name": "بايلوت",
+						"locale": { "en": "Baylott", "ar": "بايلوت" },
+						"id": "231",
+						"mom_id": "17",
+						"type": "CAR"
+					},
+					{
+						"name": "سيتي",
+						"locale": { "en": "City", "ar": "سيتي" },
+						"id": "521",
+						"mom_id": "17",
+						"type": "CAR"
+					},
+					{
+						"name": "ليجيند",
+						"locale": { "en": "Legends", "ar": "ليجيند" },
+						"id": "227",
+						"mom_id": "17",
+						"type": "CAR"
+					},
+					{
+						"name": "بريليود",
+						"locale": { "en": "Brielle", "ar": "بريليود" },
+						"id": "230",
+						"mom_id": "17",
+						"type": "CAR"
+					},
+					{
+						"name": "انتيجرا",
+						"locale": { "en": "Integra", "ar": "انتيجرا" },
+						"id": "229",
+						"mom_id": "17",
+						"type": "CAR"
+					},
+					{
+						"name": "HRV",
+						"id": "607",
+						"mom_id": "17",
+						"locale": { "en": "HRV", "ar": "HRV" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "بي ام دبليو",
+				"locale": { "en": "BMW", "ar": "بي ام دبليو" },
+				"id": "14",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "الفئة السابعة",
+						"locale": { "en": "Series VII", "ar": "الفئة السابعة" },
+						"id": "191",
+						"mom_id": "14",
+						"type": "CAR"
+					},
+					{
+						"name": "الفئة الخامسة",
+						"locale": {
+							"en": "Fifth Series",
+							"ar": "الفئة الخامسة"
+						},
+						"id": "189",
+						"mom_id": "14",
+						"type": "CAR"
+					},
+					{
+						"name": "الفئة X",
+						"locale": { "en": "Series X", "ar": "الفئة X" },
+						"id": "194",
+						"mom_id": "14",
+						"type": "CAR"
+					},
+					{
+						"name": "الفئة الثالثة",
+						"locale": { "en": "Series III", "ar": "الفئة الثالثة" },
+						"id": "188",
+						"mom_id": "14",
+						"type": "CAR"
+					},
+					{
+						"name": "الفئة السادسة",
+						"locale": { "en": "Series VI", "ar": "الفئة السادسة" },
+						"id": "190",
+						"mom_id": "14",
+						"type": "CAR"
+					},
+					{
+						"name": "الفئة الأولى",
+						"locale": { "en": "Series 1st", "ar": "الفئة الأولى" },
+						"id": "187",
+						"mom_id": "14",
+						"type": "CAR"
+					},
+					{
+						"name": "الفئة M",
+						"locale": { "en": "Series M", "ar": "الفئة M" },
+						"id": "193",
+						"mom_id": "14",
+						"type": "CAR"
+					},
+					{
+						"name": "ميني كوبر",
+						"locale": { "en": "Mini Cooper", "ar": "ميني كوبر" },
+						"id": "491",
+						"mom_id": "14",
+						"type": "CAR"
+					},
+					{
+						"name": "الفئة Z",
+						"locale": { "en": "Series Z", "ar": "الفئة Z" },
+						"id": "192",
+						"mom_id": "14",
+						"type": "CAR"
+					},
+					{
+						"name": "الفئة i",
+						"id": "787",
+						"mom_id": "14",
+						"locale": { "en": "Series i", "ar": "الفئة i" },
+						"type": "CAR"
+					},
+					{
+						"name": "الفئة الثامنة",
+						"id": "786",
+						"mom_id": "14",
+						"locale": { "en": "Series 8", "ar": "الفئة الثامنة" },
+						"type": "CAR"
+					},
+					{
+						"name": "الفئة الثانية",
+						"id": "784",
+						"mom_id": "14",
+						"locale": { "en": "Series 2", "ar": "الفئة الثانية" },
+						"type": "CAR"
+					},
+					{
+						"name": "الفئة الرابعة",
+						"id": "785",
+						"mom_id": "14",
+						"locale": { "en": "Series 4", "ar": "الفئة الرابعة" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "دبابات",
+				"locale": { "en": "Motorcycles", "ar": "دبابات" },
+				"id": "58",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "دباب سوزوكي",
+						"locale": { "en": "Suzuki", "ar": "دباب سوزوكي" },
+						"id": "409",
+						"mom_id": "58",
+						"type": "MOTORCYCLE"
+					},
+					{
+						"name": "دباب ياماها",
+						"locale": {
+							"en": "Yamaha Motorcycles",
+							"ar": "دباب ياماها"
+						},
+						"id": "412",
+						"mom_id": "58",
+						"type": "MOTORCYCLE"
+					},
+					{
+						"name": "دباب صيني",
+						"locale": {
+							"en": "Chinese Motorcycle",
+							"ar": "دباب صيني"
+						},
+						"id": "413",
+						"mom_id": "58",
+						"type": "MOTORCYCLE"
+					},
+					{
+						"name": "دباب هوندا",
+						"locale": {
+							"en": "Honda Motorcycles",
+							"ar": "دباب هوندا"
+						},
+						"id": "408",
+						"mom_id": "58",
+						"type": "MOTORCYCLE"
+					},
+					{
+						"name": "دباب هارلي",
+						"locale": {
+							"en": "Harley Motorcycles",
+							"ar": "دباب هارلي"
+						},
+						"id": "411",
+						"mom_id": "58",
+						"type": "MOTORCYCLE"
+					},
+					{
+						"name": "دباب رام",
+						"locale": {
+							"en": "Ram's Motorcycles",
+							"ar": "دباب رام"
+						},
+						"id": "493",
+						"mom_id": "58",
+						"type": "MOTORCYCLE"
+					},
+					{
+						"name": "دباب كوزاكي",
+						"locale": {
+							"en": "Kuzaki Motorcycles",
+							"ar": "دباب كوزاكي"
+						},
+						"id": "410",
+						"mom_id": "58",
+						"type": "MOTORCYCLE"
+					},
+					{
+						"name": "دباب بحري",
+						"locale": { "en": "Jet Ski", "ar": "دباب بحري" },
+						"id": "414",
+						"mom_id": "58",
+						"type": "MOTORCYCLE"
+					},
+					{
+						"name": "دباب BMW",
+						"id": "889",
+						"mom_id": "58",
+						"locale": { "en": "BMW Motorcycle", "ar": "دباب BMW" },
+						"type": "MOTORCYCLE"
+					},
+					{
+						"name": "دباب KTM",
+						"id": "973",
+						"mom_id": "58",
+						"locale": { "en": "KTM Motorcycles", "ar": "دباب KTM" },
+						"type": "MOTORCYCLE"
+					}
+				],
+				"type": "MOTORCYCLE"
+			},
+			{
+				"name": "كيا",
+				"locale": { "en": "Kia", "ar": "كيا" },
+				"id": "27",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "اوبتيما",
+						"locale": { "en": "Optima", "ar": "اوبتيما" },
+						"id": "285",
+						"mom_id": "27",
+						"type": "CAR"
+					},
+					{
+						"name": "سيراتو",
+						"locale": { "en": "Cerato", "ar": "سيراتو" },
+						"id": "288",
+						"mom_id": "27",
+						"type": "CAR"
+					},
+					{
+						"name": "ريو",
+						"locale": { "en": "Rio", "ar": "ريو" },
+						"id": "294",
+						"mom_id": "27",
+						"type": "CAR"
+					},
+					{
+						"name": "كارنيفال",
+						"locale": { "en": "Carnival", "ar": "كارنيفال" },
+						"id": "284",
+						"mom_id": "27",
+						"type": "CAR"
+					},
+					{
+						"name": "سبورتاج",
+						"locale": { "en": "Sportage", "ar": "سبورتاج" },
+						"id": "286",
+						"mom_id": "27",
+						"type": "CAR"
+					},
+					{
+						"name": "كادينزا",
+						"locale": { "en": "Cadenza", "ar": "كادينزا" },
+						"id": "290",
+						"mom_id": "27",
+						"type": "CAR"
+					},
+					{
+						"name": "اوبيروس",
+						"locale": { "en": "Opirus", "ar": "اوبيروس" },
+						"id": "520",
+						"mom_id": "27",
+						"type": "CAR"
+					},
+					{
+						"name": "سورنتو",
+						"locale": { "en": "Sorento", "ar": "سورنتو" },
+						"id": "292",
+						"mom_id": "27",
+						"type": "CAR"
+					},
+					{
+						"name": "كارينز",
+						"locale": { "en": "Cairns", "ar": "كارينز" },
+						"id": "283",
+						"mom_id": "27",
+						"type": "CAR"
+					},
+					{
+						"name": "بيكانتو",
+						"locale": { "en": "Picanto", "ar": "بيكانتو" },
+						"id": "293",
+						"mom_id": "27",
+						"type": "CAR"
+					},
+					{
+						"name": "مو هافي ",
+						"locale": { "en": "Mohave", "ar": "موهافي" },
+						"id": "291",
+						"mom_id": "27",
+						"type": "CAR"
+					},
+					{
+						"name": "كوريس",
+						"locale": { "en": "Corres", "ar": "كوريس" },
+						"id": "523",
+						"mom_id": "27",
+						"type": "CAR"
+					},
+					{
+						"name": "سول",
+						"locale": { "en": "Soul", "ar": "سول" },
+						"id": "534",
+						"mom_id": "27",
+						"type": "CAR"
+					},
+					{
+						"name": "سيفيا",
+						"locale": { "en": "Sephia", "ar": "سيفيا" },
+						"id": "287",
+						"mom_id": "27",
+						"type": "CAR"
+					},
+					{
+						"name": "K900",
+						"id": "610",
+						"mom_id": "27",
+						"locale": { "en": "K900", "ar": "K900" },
+						"type": "CAR"
+					},
+					{
+						"name": "بيجاس",
+						"id": "608",
+						"mom_id": "27",
+						"locale": { "en": "Pegas", "ar": "بيجاس" },
+						"type": "CAR"
+					},
+					{
+						"name": "تيلورايد",
+						"id": "611",
+						"mom_id": "27",
+						"locale": { "en": "Telluride", "ar": "تيلورايد" },
+						"type": "CAR"
+					},
+					{
+						"name": "ستينجر",
+						"id": "609",
+						"mom_id": "27",
+						"locale": { "en": "Stinger", "ar": "ستينجر" },
+						"type": "CAR"
+					},
+					{
+						"name": "سيلتوس",
+						"id": "612",
+						"mom_id": "27",
+						"locale": { "en": "Seltos", "ar": "سيلتوس" },
+						"type": "CAR"
+					},
+					{
+						"name": "نيرو",
+						"id": "613",
+						"mom_id": "27",
+						"locale": { "en": "Niro", "ar": "نيرو" },
+						"type": "CAR"
+					},
+					{
+						"name": "K5",
+						"id": "664",
+						"mom_id": "27",
+						"locale": { "en": "K5", "ar": "K5" },
+						"type": "CAR"
+					},
+					{
+						"name": "سونيت",
+						"id": "934",
+						"mom_id": "27",
+						"locale": { "en": "Sonet", "ar": "سونيت" },
+						"type": "CAR"
+					},
+					{
+						"name": "K8",
+						"id": "986",
+						"mom_id": "27",
+						"locale": { "en": "NS", "ar": "K8" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "دودج",
+				"locale": { "en": "Dodge", "ar": "دودج" },
+				"id": "36",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "تشارجر",
+						"locale": { "en": "Charger", "ar": "تشارجر" },
+						"id": "343",
+						"mom_id": "36",
+						"type": "CAR"
+					},
+					{
+						"name": "جالينجر",
+						"locale": { "en": "Gallinger", "ar": "تشالنجر" },
+						"id": "333",
+						"mom_id": "36",
+						"type": "CAR"
+					},
+					{
+						"name": "دورانجو",
+						"locale": { "en": "Durango", "ar": "دورانجو" },
+						"id": "335",
+						"mom_id": "36",
+						"type": "CAR"
+					},
+					{
+						"name": "كارافان",
+						"locale": { "en": "Caravan", "ar": "كارافان" },
+						"id": "332",
+						"mom_id": "36",
+						"type": "CAR"
+					},
+					{
+						"name": "رام",
+						"locale": { "en": "Archer", "ar": "رام" },
+						"id": "338",
+						"mom_id": "36",
+						"type": "CAR"
+					},
+					{
+						"name": "نيترو",
+						"locale": { "en": "Nitro", "ar": "نيترو" },
+						"id": "342",
+						"mom_id": "36",
+						"type": "CAR"
+					},
+					{
+						"name": "كاليبير",
+						"locale": { "en": "Caliber", "ar": "كاليبر" },
+						"id": "341",
+						"mom_id": "36",
+						"type": "CAR"
+					},
+					{
+						"name": "فيبر",
+						"locale": { "en": "Fiber", "ar": "فايبر" },
+						"id": "339",
+						"mom_id": "36",
+						"type": "CAR"
+					},
+					{
+						"name": "دودج بيك أب",
+						"locale": { "en": "Dodge Pickup", "ar": "دودج بيك أب" },
+						"id": "337",
+						"mom_id": "36",
+						"type": "CAR"
+					},
+					{
+						"name": "فوياجر",
+						"locale": { "en": "Voyager", "ar": "كارافان" },
+						"id": "340",
+						"mom_id": "36",
+						"type": "CAR"
+					},
+					{
+						"name": "انتربيد",
+						"locale": { "en": "Interpid", "ar": "انتربيد" },
+						"id": "336",
+						"mom_id": "36",
+						"type": "CAR"
+					},
+					{
+						"name": "نيون",
+						"id": "663",
+						"mom_id": "36",
+						"locale": { "en": "Neon", "ar": "نيون" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "كرايزلر",
+				"locale": { "en": "Chrysler", "ar": "كرايزلر" },
+				"id": "32",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "M300",
+						"locale": { "en": "M300", "ar": "M300" },
+						"id": "313",
+						"mom_id": "32",
+						"type": "CAR"
+					},
+					{
+						"name": "C300",
+						"locale": { "en": "C300", "ar": "C300" },
+						"id": "314",
+						"mom_id": "32",
+						"type": "CAR"
+					},
+					{
+						"name": "جراند فوياجر",
+						"locale": {
+							"en": "Grand Voyager",
+							"ar": "جراند فوياجر"
+						},
+						"id": "312",
+						"mom_id": "32",
+						"type": "CAR"
+					},
+					{
+						"name": "كونكود",
+						"locale": { "en": "Concorde", "ar": "كونكورد" },
+						"id": "310",
+						"mom_id": "32",
+						"type": "CAR"
+					},
+					{
+						"name": "كروس فاير",
+						"locale": { "en": "Crossfire", "ar": "كروس فاير" },
+						"id": "317",
+						"mom_id": "32",
+						"type": "CAR"
+					},
+					{
+						"name": "C200",
+						"locale": { "en": "C200", "ar": "C200" },
+						"id": "527",
+						"mom_id": "32",
+						"type": "CAR"
+					},
+					{
+						"name": "بي تي كروزر",
+						"locale": { "en": "PT Cruiser", "ar": "بي تي كروزر" },
+						"id": "315",
+						"mom_id": "32",
+						"type": "CAR"
+					},
+					{
+						"name": "امبيريال",
+						"locale": { "en": "Imperial", "ar": "امبيريال" },
+						"id": "311",
+						"mom_id": "32",
+						"type": "CAR"
+					},
+					{
+						"name": "بلايموث",
+						"locale": { "en": "Plymouth", "ar": "بلايموث" },
+						"id": "316",
+						"mom_id": "32",
+						"type": "CAR"
+					},
+					{
+						"name": "باسيفيكا",
+						"id": "624",
+						"mom_id": "32",
+						"locale": { "en": "Pacifica", "ar": "باسيفيكا" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "جيب",
+				"locale": { "en": "Jeep", "ar": "جيب" },
+				"id": "15",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "شيروكي",
+						"locale": { "en": "Cherokee", "ar": "شيروكي" },
+						"id": "203",
+						"mom_id": "15",
+						"type": "CAR"
+					},
+					{
+						"name": "جراند شيروكي",
+						"locale": {
+							"en": "Grand Cherokee",
+							"ar": "جراند شيروكي"
+						},
+						"id": "204",
+						"mom_id": "15",
+						"type": "CAR"
+					},
+					{
+						"name": "رانجلر",
+						"locale": { "en": "Wrangler", "ar": "رانجلر" },
+						"id": "205",
+						"mom_id": "15",
+						"type": "CAR"
+					},
+					{
+						"name": "ليبرتي",
+						"locale": { "en": "Liberty", "ar": "ليبرتي" },
+						"id": "206",
+						"mom_id": "15",
+						"type": "CAR"
+					},
+					{
+						"name": "رينيجيد",
+						"id": "622",
+						"mom_id": "15",
+						"locale": { "en": "Renegade", "ar": "رينيجيد" },
+						"type": "CAR"
+					},
+					{
+						"name": "كومباس",
+						"id": "623",
+						"mom_id": "15",
+						"locale": { "en": "Compass", "ar": "كومباس" },
+						"type": "CAR"
+					},
+					{
+						"name": "جلاديتور",
+						"id": "789",
+						"mom_id": "15",
+						"locale": { "en": "Geladiator", "ar": "جلاديتور" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "ميتسوبيشي",
+				"locale": { "en": "Mitsubishi", "ar": "ميتسوبيشي" },
+				"id": "24",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "باجيرو",
+						"locale": { "en": "Pajero", "ar": "باجيرو" },
+						"id": "265",
+						"mom_id": "24",
+						"type": "CAR"
+					},
+					{
+						"name": "لانسر",
+						"locale": { "en": "Lancer", "ar": "لانسر" },
+						"id": "262",
+						"mom_id": "24",
+						"type": "CAR"
+					},
+					{
+						"name": "L200",
+						"locale": { "en": "L200", "ar": "L200" },
+						"id": "266",
+						"mom_id": "24",
+						"type": "CAR"
+					},
+					{
+						"name": "ناتيفا",
+						"locale": { "en": "Nativa", "ar": "ناتيفا" },
+						"id": "264",
+						"mom_id": "24",
+						"type": "CAR"
+					},
+					{
+						"name": "جالنت",
+						"locale": { "en": "Galant", "ar": "جالنت" },
+						"id": "261",
+						"mom_id": "24",
+						"type": "CAR"
+					},
+					{
+						"name": "كولت",
+						"locale": { "en": "Colt", "ar": "كولت" },
+						"id": "260",
+						"mom_id": "24",
+						"type": "CAR"
+					},
+					{
+						"name": "ماجنا",
+						"locale": { "en": "Magna", "ar": "ماجنا" },
+						"id": "263",
+						"mom_id": "24",
+						"type": "CAR"
+					},
+					{
+						"name": "سقما",
+						"locale": { "en": "Sigma", "ar": "سيجما" },
+						"id": "267",
+						"mom_id": "24",
+						"type": "CAR"
+					},
+					{
+						"name": "ASX",
+						"id": "590",
+						"mom_id": "24",
+						"locale": { "en": "ASX", "ar": "ASX" },
+						"type": "CAR"
+					},
+					{
+						"name": "اتراج",
+						"id": "589",
+						"mom_id": "24",
+						"locale": { "en": "Attrage", "ar": "اتراج" },
+						"type": "CAR"
+					},
+					{
+						"name": "اكلبس كروس",
+						"id": "588",
+						"mom_id": "24",
+						"locale": {
+							"en": "Eclipse Cross",
+							"ar": "اكليبس كروس"
+						},
+						"type": "CAR"
+					},
+					{
+						"name": "اوتلاندر",
+						"id": "587",
+						"mom_id": "24",
+						"locale": { "en": "Outlander", "ar": "اوتلاندر" },
+						"type": "CAR"
+					},
+					{
+						"name": "سبيس ستار",
+						"id": "586",
+						"mom_id": "24",
+						"locale": { "en": "Space Star", "ar": "سبيس ستار" },
+						"type": "CAR"
+					},
+					{
+						"name": "مونتيرو",
+						"id": "591",
+						"mom_id": "24",
+						"locale": { "en": "Montero", "ar": "مونتيرو" },
+						"type": "CAR"
+					},
+					{
+						"name": "اكسباندر",
+						"id": "938",
+						"mom_id": "24",
+						"locale": { "en": "Xpander", "ar": "اكسباندر" },
+						"type": "CAR"
+					},
+					{
+						"name": "جرانديز",
+						"id": "936",
+						"mom_id": "24",
+						"locale": { "en": "Grandis", "ar": "جرانديز" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "مازدا",
+				"locale": { "en": "Mazda", "ar": "مازدا" },
+				"id": "21",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "مازدا 6",
+						"locale": { "en": "Mazda 6", "ar": "مازدا 6" },
+						"id": "248",
+						"mom_id": "21",
+						"type": "CAR"
+					},
+					{
+						"name": "CX9",
+						"locale": { "en": "CX9", "ar": "CX9" },
+						"id": "251",
+						"mom_id": "21",
+						"type": "CAR"
+					},
+					{
+						"name": "مازدا 3",
+						"locale": { "en": "Mazda 3", "ar": "مازدا 3" },
+						"id": "247",
+						"mom_id": "21",
+						"type": "CAR"
+					},
+					{
+						"name": "323",
+						"locale": { "en": "323", "ar": "323" },
+						"id": "244",
+						"mom_id": "21",
+						"type": "CAR"
+					},
+					{
+						"name": "626",
+						"locale": { "en": "626", "ar": "626" },
+						"id": "245",
+						"mom_id": "21",
+						"type": "CAR"
+					},
+					{
+						"name": "CX7",
+						"locale": { "en": "CX7", "ar": "CX7" },
+						"id": "252",
+						"mom_id": "21",
+						"type": "CAR"
+					},
+					{
+						"name": "BT50",
+						"locale": { "en": "BT50", "ar": "BT50" },
+						"id": "250",
+						"mom_id": "21",
+						"type": "CAR"
+					},
+					{
+						"name": "MPV",
+						"locale": { "en": "MPV", "ar": "MPV" },
+						"id": "246",
+						"mom_id": "21",
+						"type": "CAR"
+					},
+					{
+						"name": "CX5",
+						"locale": { "en": "CX5", "ar": "CX5" },
+						"id": "528",
+						"mom_id": "21",
+						"type": "CAR"
+					},
+					{
+						"name": "CX2",
+						"locale": { "en": "CX2", "ar": "CX2" },
+						"id": "253",
+						"mom_id": "21",
+						"type": "CAR"
+					},
+					{
+						"name": "RX8",
+						"locale": { "en": "RX8", "ar": "RX8" },
+						"id": "249",
+						"mom_id": "21",
+						"type": "CAR"
+					},
+					{
+						"name": "MX-5",
+						"locale": { "en": "MX-5", "ar": "MX-5" },
+						"id": "490",
+						"mom_id": "21",
+						"type": "CAR"
+					},
+					{
+						"name": "CX3",
+						"id": "620",
+						"mom_id": "21",
+						"locale": { "en": "CX3", "ar": "CX3" },
+						"type": "CAR"
+					},
+					{
+						"name": "مازدا 2",
+						"id": "618",
+						"mom_id": "21",
+						"locale": { "en": "Mazda 2", "ar": "مازدا 2" },
+						"type": "CAR"
+					},
+					{
+						"name": "مازدا 5",
+						"id": "619",
+						"mom_id": "21",
+						"locale": { "en": "Mazda 5", "ar": "مازدا 5" },
+						"type": "CAR"
+					},
+					{
+						"name": "CX30",
+						"id": "788",
+						"mom_id": "21",
+						"locale": { "en": "CX30", "ar": "CX30" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "لاند روفر",
+				"locale": { "en": "Land Rover", "ar": "لاند روفر" },
+				"id": "20",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "رنج روفر",
+						"locale": { "en": "Range Rover", "ar": "رنج روفر" },
+						"id": "239",
+						"mom_id": "20",
+						"type": "CAR"
+					},
+					{
+						"name": "ديسكفري",
+						"locale": { "en": "Discovery", "ar": "ديسكفري" },
+						"id": "238",
+						"mom_id": "20",
+						"type": "CAR"
+					},
+					{
+						"name": "LR2",
+						"locale": { "en": "LR2", "ar": "LR2" },
+						"id": "241",
+						"mom_id": "20",
+						"type": "CAR"
+					},
+					{
+						"name": "ديفندر",
+						"locale": { "en": "Defender", "ar": "ديفندر" },
+						"id": "243",
+						"mom_id": "20",
+						"type": "CAR"
+					},
+					{
+						"name": "LR3",
+						"locale": { "en": "LR3", "ar": "LR3" },
+						"id": "242",
+						"mom_id": "20",
+						"type": "CAR"
+					},
+					{
+						"name": "فري لاند",
+						"locale": { "en": "Freelander", "ar": "فريلاندر" },
+						"id": "240",
+						"mom_id": "20",
+						"type": "CAR"
+					},
+					{
+						"name": "LR4",
+						"locale": { "en": "LR4", "ar": "LR4" },
+						"id": "522",
+						"mom_id": "20",
+						"type": "CAR"
+					},
+					{
+						"name": "ايفوك",
+						"id": "700",
+						"mom_id": "20",
+						"locale": { "en": "Evoque", "ar": "ايفوك" },
+						"type": "CAR"
+					},
+					{
+						"name": "فيلار",
+						"id": "699",
+						"mom_id": "20",
+						"locale": { "en": "Velar", "ar": "فيلار" },
+						"type": "CAR"
+					},
+					{
+						"name": "ديسكفري سبورت",
+						"id": "791",
+						"mom_id": "20",
+						"locale": {
+							"en": "Discovery Sport",
+							"ar": "ديسكفري سبورت"
+						},
+						"type": "CAR"
+					},
+					{
+						"name": "رينج روفر سبورت",
+						"id": "790",
+						"mom_id": "20",
+						"locale": {
+							"en": "Range Rover Sport",
+							"ar": "رينج روفر سبورت"
+						},
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "ايسوزو",
+				"locale": { "en": "Isuzu", "ar": "ايسوزو" },
+				"id": "11",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "اسندر",
+						"locale": { "en": "Discovery", "ar": "اسندر" },
+						"id": "274",
+						"mom_id": "11",
+						"type": "CAR"
+					},
+					{
+						"name": "ديماكس",
+						"locale": { "en": "D'Max", "ar": "ديماكس" },
+						"id": "275",
+						"mom_id": "11",
+						"type": "CAR"
+					},
+					{
+						"name": "MUX",
+						"id": "621",
+						"mom_id": "11",
+						"locale": { "en": "MUX", "ar": "MUX" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "كاديلاك",
+				"locale": { "en": "Cadillac", "ar": "كاديلاك" },
+				"id": "31",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "اسكاليدا",
+						"locale": { "en": "Escalade", "ar": "اسكاليد" },
+						"id": "304",
+						"mom_id": "31",
+						"type": "CAR"
+					},
+					{
+						"name": "CTS",
+						"locale": { "en": "CTS", "ar": "CTS" },
+						"id": "308",
+						"mom_id": "31",
+						"type": "CAR"
+					},
+					{
+						"name": "فليتوود",
+						"locale": { "en": "Fleetwood", "ar": "فليتوود" },
+						"id": "305",
+						"mom_id": "31",
+						"type": "CAR"
+					},
+					{
+						"name": "DTS",
+						"locale": { "en": "DTS", "ar": "DTS" },
+						"id": "309",
+						"mom_id": "31",
+						"type": "CAR"
+					},
+					{
+						"name": "ديفيل",
+						"locale": { "en": "Deville", "ar": "ديفيل" },
+						"id": "303",
+						"mom_id": "31",
+						"type": "CAR"
+					},
+					{
+						"name": "SRX",
+						"locale": { "en": "SRX", "ar": "SRX" },
+						"id": "307",
+						"mom_id": "31",
+						"type": "CAR"
+					},
+					{
+						"name": "STS",
+						"locale": { "en": "STS", "ar": "STS" },
+						"id": "306",
+						"mom_id": "31",
+						"type": "CAR"
+					},
+					{
+						"name": "كونكورس",
+						"locale": { "en": "Concours", "ar": "كونكورس" },
+						"id": "302",
+						"mom_id": "31",
+						"type": "CAR"
+					},
+					{
+						"name": "CT6",
+						"id": "625",
+						"mom_id": "31",
+						"locale": { "en": "CT6", "ar": "CT6" },
+						"type": "CAR"
+					},
+					{
+						"name": "XT4",
+						"id": "626",
+						"mom_id": "31",
+						"locale": { "en": "XT4", "ar": "XT4" },
+						"type": "CAR"
+					},
+					{
+						"name": "XT5",
+						"id": "627",
+						"mom_id": "31",
+						"locale": { "en": "XT5", "ar": "XT5" },
+						"type": "CAR"
+					},
+					{
+						"name": "XT6",
+						"id": "628",
+						"mom_id": "31",
+						"locale": { "en": "XT6", "ar": "XT6" },
+						"type": "CAR"
+					},
+					{
+						"name": "CT4",
+						"id": "797",
+						"mom_id": "31",
+						"locale": { "en": "CT4", "ar": "CT4" },
+						"type": "CAR"
+					},
+					{
+						"name": "CT5",
+						"id": "798",
+						"mom_id": "31",
+						"locale": { "en": "CT5", "ar": "CT5" },
+						"type": "CAR"
+					},
+					{
+						"name": "ATS",
+						"id": "888",
+						"mom_id": "31",
+						"locale": { "en": "ATS", "ar": "ATS" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "بورش",
+				"locale": { "en": "Porsche", "ar": "بورش" },
+				"id": "9",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "كايين",
+						"locale": { "en": "Cayenne", "ar": "كايين" },
+						"id": "277",
+						"mom_id": "9",
+						"type": "CAR"
+					},
+					{
+						"name": "باناميرا",
+						"locale": { "en": "Panamera", "ar": "باناميرا" },
+						"id": "503",
+						"mom_id": "9",
+						"type": "CAR"
+					},
+					{
+						"name": "911",
+						"locale": { "en": "911", "ar": "911" },
+						"id": "276",
+						"mom_id": "9",
+						"type": "CAR"
+					},
+					{
+						"name": "كاريرا",
+						"locale": { "en": "Carrera", "ar": "كاريرا" },
+						"id": "279",
+						"mom_id": "9",
+						"type": "CAR"
+					},
+					{
+						"name": "كايمن",
+						"locale": { "en": "Cayman", "ar": "كايمن" },
+						"id": "280",
+						"mom_id": "9",
+						"type": "CAR"
+					},
+					{
+						"name": "بوكستر",
+						"locale": { "en": "Boxster", "ar": "بوكستر" },
+						"id": "278",
+						"mom_id": "9",
+						"type": "CAR"
+					},
+					{
+						"name": "توربو",
+						"locale": { "en": "Turbo", "ar": "توربو" },
+						"id": "281",
+						"mom_id": "9",
+						"type": "CAR"
+					},
+					{
+						"name": "GT",
+						"locale": { "en": "GT", "ar": "GT" },
+						"id": "282",
+						"mom_id": "9",
+						"type": "CAR"
+					},
+					{
+						"name": "ماكان",
+						"locale": { "en": "Macan", "ar": "ماكان" },
+						"id": "530",
+						"mom_id": "9",
+						"type": "CAR"
+					},
+					{
+						"name": "718",
+						"id": "808",
+						"mom_id": "9",
+						"locale": { "en": "718", "ar": "718" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "اودي",
+				"locale": { "en": "Audi", "ar": "اودي" },
+				"id": "47",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "A8",
+						"locale": { "en": "A8", "ar": "A8" },
+						"id": "383",
+						"mom_id": "47",
+						"type": "CAR"
+					},
+					{
+						"name": "A6",
+						"locale": { "en": "A6", "ar": "A6" },
+						"id": "381",
+						"mom_id": "47",
+						"type": "CAR"
+					},
+					{
+						"name": "Q7",
+						"locale": { "en": "Q7", "ar": "Q7" },
+						"id": "377",
+						"mom_id": "47",
+						"type": "CAR"
+					},
+					{
+						"name": "Q5",
+						"locale": { "en": "Q5", "ar": "Q5" },
+						"id": "378",
+						"mom_id": "47",
+						"type": "CAR"
+					},
+					{
+						"name": "A4",
+						"locale": { "en": "A4", "ar": "A4" },
+						"id": "376",
+						"mom_id": "47",
+						"type": "CAR"
+					},
+					{
+						"name": "A5",
+						"locale": { "en": "A5", "ar": "A5" },
+						"id": "380",
+						"mom_id": "47",
+						"type": "CAR"
+					},
+					{
+						"name": "A7",
+						"locale": { "en": "A7", "ar": "A7" },
+						"id": "382",
+						"mom_id": "47",
+						"type": "CAR"
+					},
+					{
+						"name": "S8",
+						"locale": { "en": "S8", "ar": "S8" },
+						"id": "384",
+						"mom_id": "47",
+						"type": "CAR"
+					},
+					{
+						"name": "TT",
+						"locale": { "en": "TT", "ar": "TT" },
+						"id": "385",
+						"mom_id": "47",
+						"type": "CAR"
+					},
+					{
+						"name": "A3",
+						"locale": { "en": "A3", "ar": "A3" },
+						"id": "379",
+						"mom_id": "47",
+						"type": "CAR"
+					},
+					{
+						"name": "Q3",
+						"id": "793",
+						"mom_id": "47",
+						"locale": { "en": "Q3", "ar": "Q3" },
+						"type": "CAR"
+					},
+					{
+						"name": "Q8",
+						"id": "794",
+						"mom_id": "47",
+						"locale": { "en": "Q8", "ar": "Q8" },
+						"type": "CAR"
+					},
+					{
+						"name": "R8",
+						"id": "795",
+						"mom_id": "47",
+						"locale": { "en": "R8", "ar": "R8" },
+						"type": "CAR"
+					},
+					{
+						"name": "RS",
+						"id": "796",
+						"mom_id": "47",
+						"locale": { "en": "RS", "ar": "RS" },
+						"type": "CAR"
+					},
+					{
+						"name": "S3",
+						"id": "902",
+						"mom_id": "47",
+						"locale": { "en": "S3", "ar": "S3" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "سوزوكي",
+				"locale": { "en": "Suzuki", "ar": "سوزوكي" },
+				"id": "44",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "فيتارا",
+						"locale": { "en": "Vitara", "ar": "فيتارا" },
+						"id": "362",
+						"mom_id": "44",
+						"type": "CAR"
+					},
+					{
+						"name": "ساموراي",
+						"locale": { "en": "Samurai", "ar": "ساموراي" },
+						"id": "363",
+						"mom_id": "44",
+						"type": "CAR"
+					},
+					{
+						"name": "سويفت",
+						"locale": { "en": "Swift", "ar": "سويفت" },
+						"id": "364",
+						"mom_id": "44",
+						"type": "CAR"
+					},
+					{
+						"name": "جمني",
+						"locale": { "en": "Jimny", "ar": "جمني" },
+						"id": "365",
+						"mom_id": "44",
+						"type": "CAR"
+					},
+					{
+						"name": "ليانا",
+						"locale": { "en": "Liana", "ar": "ليانا" },
+						"id": "366",
+						"mom_id": "44",
+						"type": "CAR"
+					},
+					{
+						"name": "SX4",
+						"locale": { "en": "SX4", "ar": "SX4" },
+						"id": "525",
+						"mom_id": "44",
+						"type": "CAR"
+					},
+					{
+						"name": "ارتيجا",
+						"id": "814",
+						"mom_id": "44",
+						"locale": { "en": "Ertiga", "ar": "ارتيجا" },
+						"type": "CAR"
+					},
+					{
+						"name": "بالينو",
+						"id": "811",
+						"mom_id": "44",
+						"locale": { "en": "Baleno", "ar": "بالينو" },
+						"type": "CAR"
+					},
+					{
+						"name": "جراند فيتارا",
+						"id": "810",
+						"mom_id": "44",
+						"locale": {
+							"en": "Grand Vitara",
+							"ar": "جراند فيتارا"
+						},
+						"type": "CAR"
+					},
+					{
+						"name": "سياز",
+						"id": "813",
+						"mom_id": "44",
+						"locale": { "en": "Ciaz", "ar": "سياز" },
+						"type": "CAR"
+					},
+					{
+						"name": "سيليريو",
+						"id": "812",
+						"mom_id": "44",
+						"locale": { "en": "Celerio", "ar": "سيليريو" },
+						"type": "CAR"
+					},
+					{
+						"name": "APV بيك اب",
+						"id": "895",
+						"mom_id": "44",
+						"locale": { "en": "APV Pickup", "ar": "APV بيك اب" },
+						"type": "CAR"
+					},
+					{
+						"name": "APV فان",
+						"id": "896",
+						"mom_id": "44",
+						"locale": { "en": "APV van", "ar": "APV فان" },
+						"type": "CAR"
+					},
+					{
+						"name": "ديزاير",
+						"id": "897",
+						"mom_id": "44",
+						"locale": { "en": "Dzire", "ar": "ديزاير" },
+						"type": "CAR"
+					},
+					{
+						"name": "كيزاشي",
+						"id": "985",
+						"mom_id": "44",
+						"locale": { "en": "Kizashi", "ar": "كيزاشي" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "انفنيتي",
+				"locale": { "en": "Infinity", "ar": "انفنيتي" },
+				"id": "19",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "FX",
+						"locale": { "en": "FX", "ar": "FX" },
+						"id": "235",
+						"mom_id": "19",
+						"type": "CAR"
+					},
+					{
+						"name": "QX",
+						"locale": { "en": "QX", "ar": "QX" },
+						"id": "237",
+						"mom_id": "19",
+						"type": "CAR"
+					},
+					{
+						"name": "انفنيتي G",
+						"locale": { "en": "G", "ar": "انفنيتي G" },
+						"id": "236",
+						"mom_id": "19",
+						"type": "CAR"
+					},
+					{
+						"name": "Q",
+						"locale": { "en": "Q", "ar": "Q" },
+						"id": "487",
+						"mom_id": "19",
+						"type": "CAR"
+					},
+					{
+						"name": "M",
+						"locale": { "en": "M", "ar": "M" },
+						"id": "488",
+						"mom_id": "19",
+						"type": "CAR"
+					},
+					{
+						"name": "Q30",
+						"id": "635",
+						"mom_id": "19",
+						"locale": { "en": "Q30", "ar": "Q30" },
+						"type": "CAR"
+					},
+					{
+						"name": "Q50",
+						"id": "636",
+						"mom_id": "19",
+						"locale": { "en": "Q50", "ar": "Q50" },
+						"type": "CAR"
+					},
+					{
+						"name": "Q60",
+						"id": "637",
+						"mom_id": "19",
+						"locale": { "en": "Q60", "ar": "Q60" },
+						"type": "CAR"
+					},
+					{
+						"name": "Q70",
+						"id": "638",
+						"mom_id": "19",
+						"locale": { "en": "Q70", "ar": "Q70" },
+						"type": "CAR"
+					},
+					{
+						"name": "QX50",
+						"id": "639",
+						"mom_id": "19",
+						"locale": { "en": "QX50", "ar": "QX50" },
+						"type": "CAR"
+					},
+					{
+						"name": "QX60",
+						"id": "640",
+						"mom_id": "19",
+						"locale": { "en": "QX60", "ar": "QX60" },
+						"type": "CAR"
+					},
+					{
+						"name": "QX70",
+						"id": "641",
+						"mom_id": "19",
+						"locale": { "en": "QX70", "ar": "QX70" },
+						"type": "CAR"
+					},
+					{
+						"name": "QX80",
+						"id": "642",
+						"mom_id": "19",
+						"locale": { "en": "QX80", "ar": "QX80" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "همر",
+				"locale": { "en": "Hummer", "ar": "همر" },
+				"id": "18",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "H3",
+						"locale": { "en": "H3", "ar": "H3" },
+						"id": "234",
+						"mom_id": "18",
+						"type": "CAR"
+					},
+					{
+						"name": "H2",
+						"locale": { "en": "H2", "ar": "H2" },
+						"id": "233",
+						"mom_id": "18",
+						"type": "CAR"
+					},
+					{
+						"name": "H1",
+						"locale": { "en": "H1", "ar": "H1" },
+						"id": "232",
+						"mom_id": "18",
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "لنكولن",
+				"locale": { "en": "Lincoln", "ar": "لنكولن" },
+				"id": "25",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "تاون كار",
+						"locale": { "en": "Town Car", "ar": "تاون كار" },
+						"id": "271",
+						"mom_id": "25",
+						"type": "CAR"
+					},
+					{
+						"name": "نافيجتور",
+						"locale": { "en": "Navigator", "ar": "نافيجتور" },
+						"id": "268",
+						"mom_id": "25",
+						"type": "CAR"
+					},
+					{
+						"name": "MKS",
+						"locale": { "en": "MKS", "ar": "MKS" },
+						"id": "269",
+						"mom_id": "25",
+						"type": "CAR"
+					},
+					{
+						"name": "ال اس",
+						"locale": { "en": "S", "ar": "ال اس" },
+						"id": "270",
+						"mom_id": "25",
+						"type": "CAR"
+					},
+					{
+						"name": "كونتيننتال",
+						"id": "698",
+						"mom_id": "25",
+						"locale": { "en": "Continental", "ar": "كونتيننتال" },
+						"type": "CAR"
+					},
+					{
+						"name": "نوتيلوس",
+						"id": "697",
+						"mom_id": "25",
+						"locale": { "en": "Nautilus", "ar": "نوتيلوس" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "فولكس واجن",
+				"locale": { "en": "Volkswagen", "ar": "فولكس واجن" },
+				"id": "23",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "باسات",
+						"locale": { "en": "Passat", "ar": "باسات" },
+						"id": "257",
+						"mom_id": "23",
+						"type": "CAR"
+					},
+					{
+						"name": "طوارق",
+						"locale": { "en": "Touareg", "ar": "طوارق" },
+						"id": "259",
+						"mom_id": "23",
+						"type": "CAR"
+					},
+					{
+						"name": "جولف",
+						"locale": { "en": "Golf", "ar": "جولف" },
+						"id": "256",
+						"mom_id": "23",
+						"type": "CAR"
+					},
+					{
+						"name": "بيتل",
+						"locale": { "en": "Beetle", "ar": "بيتل" },
+						"id": "255",
+						"mom_id": "23",
+						"type": "CAR"
+					},
+					{
+						"name": "بولو",
+						"locale": { "en": "Polo", "ar": "بولو" },
+						"id": "258",
+						"mom_id": "23",
+						"type": "CAR"
+					},
+					{
+						"name": "جيتا",
+						"locale": { "en": "Jetta", "ar": "جيتا" },
+						"id": "531",
+						"mom_id": "23",
+						"type": "CAR"
+					},
+					{
+						"name": "شيروكو",
+						"locale": { "en": "Scirocco", "ar": "شيروكو" },
+						"id": "494",
+						"mom_id": "23",
+						"type": "CAR"
+					},
+					{
+						"name": "تيجوان",
+						"locale": { "en": "Tiguan", "ar": "تيجوان" },
+						"id": "532",
+						"mom_id": "23",
+						"type": "CAR"
+					},
+					{
+						"name": "تيرامونت",
+						"id": "816",
+						"mom_id": "23",
+						"locale": { "en": "Teramont", "ar": "تيرامونت" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "ديهاتسو",
+				"locale": { "en": "Daihatsu", "ar": "دايهاتسو" },
+				"id": "35",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "سيريون",
+						"locale": { "en": "Sirion", "ar": "سيريون" },
+						"id": "329",
+						"mom_id": "35",
+						"type": "CAR"
+					},
+					{
+						"name": "تيروس",
+						"locale": { "en": "Taurus", "ar": "تيريوس" },
+						"id": "330",
+						"mom_id": "35",
+						"type": "CAR"
+					},
+					{
+						"name": "ماتيريا",
+						"locale": { "en": "Materia", "ar": "ماتيريا" },
+						"id": "331",
+						"mom_id": "35",
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "جيلي",
+				"locale": { "en": "Geely", "ar": "جيلي" },
+				"id": "56",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "EC7",
+						"locale": { "en": "EC7", "ar": "EC7" },
+						"id": "404",
+						"mom_id": "56",
+						"type": "CAR"
+					},
+					{
+						"name": "EC8",
+						"locale": { "en": "EC8", "ar": "EC8" },
+						"id": "403",
+						"mom_id": "56",
+						"type": "CAR"
+					},
+					{
+						"name": "LC Panda",
+						"locale": { "en": "LC Panda", "ar": "باندا" },
+						"id": "405",
+						"mom_id": "56",
+						"type": "CAR"
+					},
+					{
+						"name": "امجراند 7",
+						"id": "694",
+						"mom_id": "56",
+						"locale": { "en": "Emgrand 7", "ar": "امجراند 7" },
+						"type": "CAR"
+					},
+					{
+						"name": "امجراند GS",
+						"id": "693",
+						"mom_id": "56",
+						"locale": { "en": "Emgrand GS", "ar": "امجراند GS" },
+						"type": "CAR"
+					},
+					{
+						"name": "امجراند X7",
+						"id": "692",
+						"mom_id": "56",
+						"locale": { "en": "Emgrand X7", "ar": "امجراند X7" },
+						"type": "CAR"
+					},
+					{
+						"name": "بينراي",
+						"id": "696",
+						"mom_id": "56",
+						"locale": { "en": "Binray", "ar": "بينراي" },
+						"type": "CAR"
+					},
+					{
+						"name": "كولراي",
+						"id": "695",
+						"mom_id": "56",
+						"locale": { "en": "Coolray", "ar": "كولراي" },
+						"type": "CAR"
+					},
+					{
+						"name": "ازكارا",
+						"id": "809",
+						"mom_id": "56",
+						"locale": { "en": "Azkarra", "ar": "ازكارا" },
+						"type": "CAR"
+					},
+					{
+						"name": "توجيلا",
+						"id": "975",
+						"mom_id": "56",
+						"locale": { "en": "Tugella", "ar": "توجيلا" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "ميركوري",
+				"locale": { "en": "Mercury", "ar": "ميركوري" },
+				"id": "22",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "مونتنير",
+						"locale": { "en": "Mountaineer", "ar": "مونتنير" },
+						"id": "254",
+						"mom_id": "22",
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "فولفو",
+				"locale": { "en": "Volvo", "ar": "فولفو" },
+				"id": "45",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "S 80",
+						"locale": { "en": "S 80", "ar": "S 80" },
+						"id": "372",
+						"mom_id": "45",
+						"type": "CAR"
+					},
+					{
+						"name": "850",
+						"locale": { "en": "850", "ar": "850" },
+						"id": "367",
+						"mom_id": "45",
+						"type": "CAR"
+					},
+					{
+						"name": "XC90",
+						"locale": { "en": "XC90", "ar": "XC90" },
+						"id": "375",
+						"mom_id": "45",
+						"type": "CAR"
+					},
+					{
+						"name": "S 60R",
+						"locale": { "en": "S 60R", "ar": "S 60R" },
+						"id": "370",
+						"mom_id": "45",
+						"type": "CAR"
+					},
+					{
+						"name": "S 40",
+						"locale": { "en": "S 40", "ar": "S 40" },
+						"id": "369",
+						"mom_id": "45",
+						"type": "CAR"
+					},
+					{
+						"name": "960",
+						"locale": { "en": "960", "ar": "960" },
+						"id": "368",
+						"mom_id": "45",
+						"type": "CAR"
+					},
+					{
+						"name": "S 70",
+						"locale": { "en": "S 70", "ar": "S 70" },
+						"id": "371",
+						"mom_id": "45",
+						"type": "CAR"
+					},
+					{
+						"name": "V 70XC",
+						"locale": { "en": "V 70XC", "ar": "V 70XC" },
+						"id": "373",
+						"mom_id": "45",
+						"type": "CAR"
+					},
+					{
+						"name": "C 70",
+						"locale": { "en": "C 70", "ar": "C 70" },
+						"id": "374",
+						"mom_id": "45",
+						"type": "CAR"
+					},
+					{
+						"name": "S60",
+						"id": "820",
+						"mom_id": "45",
+						"locale": { "en": "S60", "ar": "S60" },
+						"type": "CAR"
+					},
+					{
+						"name": "S90",
+						"id": "819",
+						"mom_id": "45",
+						"locale": { "en": "S90", "ar": "S90" },
+						"type": "CAR"
+					},
+					{
+						"name": "XC40",
+						"id": "818",
+						"mom_id": "45",
+						"locale": { "en": "XC40", "ar": "XC40" },
+						"type": "CAR"
+					},
+					{
+						"name": "XC60",
+						"id": "817",
+						"mom_id": "45",
+						"locale": { "en": "XC60", "ar": "XC60" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "بيجو",
+				"locale": { "en": "Peugeot", "ar": "بيجو" },
+				"id": "42",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "307",
+						"locale": { "en": "307", "ar": "307" },
+						"id": "352",
+						"mom_id": "42",
+						"type": "CAR"
+					},
+					{
+						"name": "407",
+						"locale": { "en": "407", "ar": "407" },
+						"id": "354",
+						"mom_id": "42",
+						"type": "CAR"
+					},
+					{
+						"name": "206",
+						"locale": { "en": "206", "ar": "206" },
+						"id": "351",
+						"mom_id": "42",
+						"type": "CAR"
+					},
+					{
+						"name": "508",
+						"locale": { "en": "508", "ar": "508" },
+						"id": "524",
+						"mom_id": "42",
+						"type": "CAR"
+					},
+					{
+						"name": "406",
+						"locale": { "en": "406", "ar": "406" },
+						"id": "353",
+						"mom_id": "42",
+						"type": "CAR"
+					},
+					{
+						"name": "بارتنر",
+						"locale": { "en": "Partner", "ar": "بارتنر" },
+						"id": "356",
+						"mom_id": "42",
+						"type": "CAR"
+					},
+					{
+						"name": "607",
+						"locale": { "en": "607", "ar": "607" },
+						"id": "355",
+						"mom_id": "42",
+						"type": "CAR"
+					},
+					{
+						"name": "404",
+						"locale": { "en": "404", "ar": "404" },
+						"id": "357",
+						"mom_id": "42",
+						"type": "CAR"
+					},
+					{
+						"name": "3008",
+						"id": "670",
+						"mom_id": "42",
+						"locale": { "en": "3008", "ar": "3008" },
+						"type": "CAR"
+					},
+					{
+						"name": "301",
+						"id": "671",
+						"mom_id": "42",
+						"locale": { "en": "301", "ar": "301" },
+						"type": "CAR"
+					},
+					{
+						"name": "5008",
+						"id": "672",
+						"mom_id": "42",
+						"locale": { "en": "5008", "ar": "5008" },
+						"type": "CAR"
+					},
+					{
+						"name": "بوكسر",
+						"id": "669",
+						"mom_id": "42",
+						"locale": { "en": "Boxer", "ar": "بوكسر" },
+						"type": "CAR"
+					},
+					{
+						"name": "اكسبيرت",
+						"id": "894",
+						"mom_id": "42",
+						"locale": { "en": "Expert", "ar": "اكسبيرت" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "بنتلي",
+				"locale": { "en": "Bentley", "ar": "بنتلي" },
+				"id": "29",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "كونتيننتال فلاينج سبير",
+						"locale": {
+							"en": "Continental Flying Spur",
+							"ar": "كونتيننتال فلاينج سبير"
+						},
+						"id": "296",
+						"mom_id": "29",
+						"type": "CAR"
+					},
+					{
+						"name": "كونتيننتال GT",
+						"locale": {
+							"en": "Continental GT",
+							"ar": "كونتيننتال GT"
+						},
+						"id": "298",
+						"mom_id": "29",
+						"type": "CAR"
+					},
+					{
+						"name": "ارنيج",
+						"locale": { "en": "Arnage", "ar": "ارنيج" },
+						"id": "297",
+						"mom_id": "29",
+						"type": "CAR"
+					},
+					{
+						"name": "ازيور",
+						"locale": { "en": "Azure", "ar": "ازيور" },
+						"id": "300",
+						"mom_id": "29",
+						"type": "CAR"
+					},
+					{
+						"name": "كونتيننتالGTC",
+						"locale": {
+							"en": "Continental GTC",
+							"ar": "كونتيننتالGTC"
+						},
+						"id": "299",
+						"mom_id": "29",
+						"type": "CAR"
+					},
+					{
+						"name": "بروكلاندز كوبية",
+						"locale": {
+							"en": "Brooklands Coupe",
+							"ar": "بروكلاندز كوبية"
+						},
+						"id": "301",
+						"mom_id": "29",
+						"type": "CAR"
+					},
+					{
+						"name": "بنتياقا",
+						"id": "667",
+						"mom_id": "29",
+						"locale": { "en": "Bentayga", "ar": "بنتياقا" },
+						"type": "CAR"
+					},
+					{
+						"name": "مولسان",
+						"id": "668",
+						"mom_id": "29",
+						"locale": { "en": "Mulsanne", "ar": "مولسان" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "جاكوار",
+				"locale": { "en": "Jaguar", "ar": "جاكوار" },
+				"id": "39",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "XJ",
+						"locale": { "en": "XJ", "ar": "XJ" },
+						"id": "344",
+						"mom_id": "39",
+						"type": "CAR"
+					},
+					{
+						"name": "X type",
+						"locale": { "en": "X type", "ar": "X type" },
+						"id": "348",
+						"mom_id": "39",
+						"type": "CAR"
+					},
+					{
+						"name": "S type",
+						"locale": { "en": "S type", "ar": "S type" },
+						"id": "347",
+						"mom_id": "39",
+						"type": "CAR"
+					},
+					{
+						"name": "سوفيرجن",
+						"locale": { "en": "Suv Virgen", "ar": "سوفيرجن" },
+						"id": "346",
+						"mom_id": "39",
+						"type": "CAR"
+					},
+					{
+						"name": "ديملر",
+						"locale": { "en": "Daimler", "ar": "ديملر" },
+						"id": "345",
+						"mom_id": "39",
+						"type": "CAR"
+					},
+					{
+						"name": "E pace",
+						"id": "690",
+						"mom_id": "39",
+						"locale": { "en": "E pace", "ar": "E pace" },
+						"type": "CAR"
+					},
+					{
+						"name": "F pace",
+						"id": "691",
+						"mom_id": "39",
+						"locale": { "en": "F pace", "ar": "F pace" },
+						"type": "CAR"
+					},
+					{
+						"name": "F type",
+						"id": "688",
+						"mom_id": "39",
+						"locale": { "en": "F type", "ar": "F type" },
+						"type": "CAR"
+					},
+					{
+						"name": "I pace",
+						"id": "689",
+						"mom_id": "39",
+						"locale": { "en": "I pace", "ar": "I pace" },
+						"type": "CAR"
+					},
+					{
+						"name": "XE",
+						"id": "687",
+						"mom_id": "39",
+						"locale": { "en": "XE", "ar": "XE" },
+						"type": "CAR"
+					},
+					{
+						"name": "XF",
+						"id": "686",
+						"mom_id": "39",
+						"locale": { "en": "XF", "ar": "XF" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "سوبارو",
+				"locale": { "en": "Subaru", "ar": "سوبارو" },
+				"id": "43",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "ليجاسي",
+						"locale": { "en": "Legacy", "ar": "ليجاسي" },
+						"id": "361",
+						"mom_id": "43",
+						"type": "CAR"
+					},
+					{
+						"name": "امبريزا",
+						"locale": { "en": "Impreza", "ar": "امبريزا" },
+						"id": "360",
+						"mom_id": "43",
+						"type": "CAR"
+					},
+					{
+						"name": "فورستر",
+						"locale": { "en": "Forrester", "ar": "فورستر" },
+						"id": "358",
+						"mom_id": "43",
+						"type": "CAR"
+					},
+					{
+						"name": "اوت باك",
+						"locale": { "en": "Outback", "ar": "اوت باك" },
+						"id": "359",
+						"mom_id": "43",
+						"type": "CAR"
+					},
+					{
+						"name": "WRX",
+						"id": "830",
+						"mom_id": "43",
+						"locale": { "en": "WRX", "ar": "WRX" },
+						"type": "CAR"
+					},
+					{
+						"name": "WRX STI",
+						"id": "832",
+						"mom_id": "43",
+						"locale": { "en": "WRX STI", "ar": "WRX STI" },
+						"type": "CAR"
+					},
+					{
+						"name": "XV",
+						"id": "831",
+						"mom_id": "43",
+						"locale": { "en": "XV", "ar": "XV" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "MG",
+				"locale": { "en": "MG", "ar": "MG" },
+				"id": "52",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "5",
+						"id": "629",
+						"mom_id": "52",
+						"locale": { "en": "5", "ar": "5" },
+						"type": "CAR"
+					},
+					{
+						"name": "6",
+						"id": "630",
+						"mom_id": "52",
+						"locale": { "en": "6", "ar": "6" },
+						"type": "CAR"
+					},
+					{
+						"name": "HS",
+						"id": "633",
+						"mom_id": "52",
+						"locale": { "en": "HS", "ar": "HS" },
+						"type": "CAR"
+					},
+					{
+						"name": "MG RX8",
+						"id": "634",
+						"mom_id": "52",
+						"locale": { "en": "MG RX8", "ar": "MG RX8" },
+						"type": "CAR"
+					},
+					{
+						"name": "RX5",
+						"id": "632",
+						"mom_id": "52",
+						"locale": { "en": "RX5", "ar": "RX5" },
+						"type": "CAR"
+					},
+					{
+						"name": "ZS",
+						"id": "631",
+						"mom_id": "52",
+						"locale": { "en": "ZS", "ar": "ZS" },
+						"type": "CAR"
+					},
+					{
+						"name": "T60",
+						"id": "815",
+						"mom_id": "52",
+						"locale": { "en": "T60", "ar": "T60" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "ZXAUTO",
+				"locale": { "en": "ZXAUTO", "ar": "ZXAUTO" },
+				"id": "57",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "ادميرال",
+						"locale": { "en": "Admiral", "ar": "ادميرال" },
+						"id": "407",
+						"mom_id": "57",
+						"type": "CAR"
+					},
+					{
+						"name": "جرامد تايجر",
+						"locale": { "en": "Grand Tiger", "ar": "جراند تايجر" },
+						"id": "406",
+						"mom_id": "57",
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "شانجان",
+				"locale": { "en": "Changan", "ar": "شانجان" },
+				"id": "559",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "ايدو",
+						"locale": { "en": "Eado", "ar": "ايدو" },
+						"id": "560",
+						"mom_id": "559",
+						"type": "CAR"
+					},
+					{
+						"name": "CS35",
+						"locale": { "en": "CS35", "ar": "CS35" },
+						"id": "561",
+						"mom_id": "559",
+						"type": "CAR"
+					},
+					{
+						"name": "CS75",
+						"locale": { "en": "CS75", "ar": "CS75" },
+						"id": "562",
+						"mom_id": "559",
+						"type": "CAR"
+					},
+					{
+						"name": "CS95",
+						"locale": { "en": "CS95", "ar": "CS95" },
+						"id": "563",
+						"mom_id": "559",
+						"type": "CAR"
+					},
+					{
+						"name": "شانجان V7",
+						"locale": { "en": "Changan V7", "ar": "شانجان V7" },
+						"id": "564",
+						"mom_id": "559",
+						"type": "CAR"
+					},
+					{
+						"name": "CS85",
+						"id": "666",
+						"mom_id": "559",
+						"locale": { "en": "CS85", "ar": "CS85" },
+						"type": "CAR"
+					},
+					{
+						"name": "السفن",
+						"id": "792",
+						"mom_id": "559",
+						"locale": { "en": "Alsvin", "ar": "السفن" },
+						"type": "CAR"
+					},
+					{
+						"name": "هنتر",
+						"id": "937",
+						"mom_id": "559",
+						"locale": { "en": "Hunter", "ar": "هنتر" },
+						"type": "CAR"
+					},
+					{
+						"name": "CS35 بلس",
+						"id": "982",
+						"mom_id": "559",
+						"locale": { "en": "CS35 Plus", "ar": "CS35 بلس" },
+						"type": "CAR"
+					},
+					{
+						"name": "CS75 بلس",
+						"id": "981",
+						"mom_id": "559",
+						"locale": { "en": "CS75 Plus", "ar": "CS75 بلس" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": " رينو",
+				"locale": { "en": "Renault", "ar": " رينو" },
+				"id": "48",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "ميغان",
+						"locale": { "en": "Megane", "ar": "ميغان" },
+						"id": "386",
+						"mom_id": "48",
+						"type": "CAR"
+					},
+					{
+						"name": "فلوانس",
+						"locale": { "en": "Fluence", "ar": "فلوانس" },
+						"id": "387",
+						"mom_id": "48",
+						"type": "CAR"
+					},
+					{
+						"name": "سافران",
+						"locale": { "en": "Safrane", "ar": "سافران" },
+						"id": "388",
+						"mom_id": "48",
+						"type": "CAR"
+					},
+					{
+						"name": "لاغونا",
+						"locale": { "en": "Laguna", "ar": "لاغونا" },
+						"id": "390",
+						"mom_id": "48",
+						"type": "CAR"
+					},
+					{
+						"name": "كليو",
+						"locale": { "en": "Clio", "ar": "كليو" },
+						"id": "389",
+						"mom_id": "48",
+						"type": "CAR"
+					},
+					{
+						"name": "تاليسمان",
+						"id": "803",
+						"mom_id": "48",
+						"locale": { "en": "Talisman", "ar": "تاليسمان" },
+						"type": "CAR"
+					},
+					{
+						"name": "داستر",
+						"id": "800",
+						"mom_id": "48",
+						"locale": { "en": "Duster", "ar": "داستر" },
+						"type": "CAR"
+					},
+					{
+						"name": "دوكر فان",
+						"id": "804",
+						"mom_id": "48",
+						"locale": { "en": "Dokker Van", "ar": "دوكر فان" },
+						"type": "CAR"
+					},
+					{
+						"name": "سيمبول",
+						"id": "802",
+						"mom_id": "48",
+						"locale": { "en": "Symbol", "ar": "سيمبول" },
+						"type": "CAR"
+					},
+					{
+						"name": "كابتشر",
+						"id": "799",
+						"mom_id": "48",
+						"locale": { "en": "Capture", "ar": "كابتشر" },
+						"type": "CAR"
+					},
+					{
+						"name": "كوليوس",
+						"id": "801",
+						"mom_id": "48",
+						"locale": { "en": "Koleos", "ar": "كوليوس" },
+						"type": "CAR"
+					},
+					{
+						"name": "ماستر",
+						"id": "805",
+						"mom_id": "48",
+						"locale": { "en": "Master", "ar": "ماستر" },
+						"type": "CAR"
+					},
+					{
+						"name": "ميجان GT",
+						"id": "806",
+						"mom_id": "48",
+						"locale": { "en": "Megane GT", "ar": "ميجان GT" },
+						"type": "CAR"
+					},
+					{
+						"name": "ميجان RS",
+						"id": "807",
+						"mom_id": "48",
+						"locale": { "en": "Megane RS", "ar": "ميجان RS" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "بيوك",
+				"locale": { "en": "Buick", "ar": "بويك" },
+				"id": "49",
+				"mom_id": "1",
+				"type": "CAR"
+			},
+			{
+				"name": "مازيراتي",
+				"locale": { "en": "Maserati", "ar": "مازيراتي" },
+				"id": "28",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "مازيراني",
+						"locale": { "en": "Mazzarini", "ar": "مازيراني" },
+						"id": "295",
+						"mom_id": "28",
+						"type": "CAR"
+					},
+					{
+						"name": "جران",
+						"id": "646",
+						"mom_id": "28",
+						"locale": { "en": "GranTurismo", "ar": "جران توريزمو" },
+						"type": "CAR"
+					},
+					{
+						"name": "جيبلي",
+						"id": "643",
+						"mom_id": "28",
+						"locale": { "en": "Ghibli", "ar": "جيبلي" },
+						"type": "CAR"
+					},
+					{
+						"name": "كواتربورتي",
+						"id": "645",
+						"mom_id": "28",
+						"locale": { "en": "Quattroporte", "ar": "كواتربورتي" },
+						"type": "CAR"
+					},
+					{
+						"name": "ليفانتي",
+						"id": "644",
+						"mom_id": "28",
+						"locale": { "en": "Levante", "ar": "ليفانتي" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "رولز رويس",
+				"locale": { "en": "Rolls-Royce", "ar": "رولز رويس" },
+				"id": "41",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "فانتوم",
+						"locale": { "en": "Phantom", "ar": "فانتوم" },
+						"id": "349",
+						"mom_id": "41",
+						"type": "CAR"
+					},
+					{
+						"name": "قوست",
+						"locale": { "en": "Quest", "ar": "قوست" },
+						"id": "350",
+						"mom_id": "41",
+						"type": "CAR"
+					},
+					{
+						"name": "داون",
+						"id": "823",
+						"mom_id": "41",
+						"locale": { "en": "Dawn", "ar": "داون" },
+						"type": "CAR"
+					},
+					{
+						"name": "ريث",
+						"id": "822",
+						"mom_id": "41",
+						"locale": { "en": "Wraith", "ar": "ريث" },
+						"type": "CAR"
+					},
+					{
+						"name": "كولينان",
+						"id": "821",
+						"mom_id": "41",
+						"locale": { "en": "Cullinan", "ar": "كولينان" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "لامبورجيني",
+				"locale": { "en": "Lamborghini", "ar": "لامبورجيني" },
+				"id": "40",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "افنتادور",
+						"id": "838",
+						"mom_id": "40",
+						"locale": { "en": "Aventador", "ar": "افنتادور" },
+						"type": "CAR"
+					},
+					{
+						"name": "اوروس",
+						"id": "839",
+						"mom_id": "40",
+						"locale": { "en": "Urus", "ar": "اوروس" },
+						"type": "CAR"
+					},
+					{
+						"name": "هوراكان",
+						"id": "837",
+						"mom_id": "40",
+						"locale": { "en": "Huracan", "ar": "هوراكان" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "اوبل",
+				"locale": { "en": "Opel", "ar": "اوبل" },
+				"id": "26",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "استرا",
+						"locale": { "en": "Astra", "ar": "استرا" },
+						"id": "272",
+						"mom_id": "26",
+						"type": "CAR"
+					},
+					{
+						"name": "ريكورد",
+						"locale": { "en": "Rekord", "ar": "ريكورد" },
+						"id": "273",
+						"mom_id": "26",
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "سكودا",
+				"locale": { "en": "Skoda", "ar": "سكودا" },
+				"id": "46",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "أوكتافيا",
+						"id": "648",
+						"mom_id": "46",
+						"locale": { "en": "Octavia", "ar": "أوكتافيا" },
+						"type": "CAR"
+					},
+					{
+						"name": "رابيد",
+						"id": "647",
+						"mom_id": "46",
+						"locale": { "en": "Rapid", "ar": "رابيد" },
+						"type": "CAR"
+					},
+					{
+						"name": "سوبيرب",
+						"id": "577",
+						"mom_id": "46",
+						"locale": { "en": "Superb", "ar": "سوبيرب" },
+						"type": "CAR"
+					},
+					{
+						"name": "فابيا",
+						"id": "649",
+						"mom_id": "46",
+						"locale": { "en": "Fabia", "ar": "فابيا" },
+						"type": "CAR"
+					},
+					{
+						"name": "كاروك",
+						"id": "650",
+						"mom_id": "46",
+						"locale": { "en": "Karoq", "ar": "كاروك" },
+						"type": "CAR"
+					},
+					{
+						"name": "كودياك",
+						"id": "651",
+						"mom_id": "46",
+						"locale": { "en": "Kodiaq", "ar": "كودياك" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "فيراري",
+				"locale": { "en": "Ferrari", "ar": "فيراري" },
+				"id": "37",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "488 PISTA",
+						"id": "846",
+						"mom_id": "37",
+						"locale": { "en": "488 PISTA", "ar": "488 PISTA" },
+						"type": "CAR"
+					},
+					{
+						"name": "812",
+						"id": "850",
+						"mom_id": "37",
+						"locale": { "en": "812", "ar": "812" },
+						"type": "CAR"
+					},
+					{
+						"name": "F8",
+						"id": "845",
+						"mom_id": "37",
+						"locale": { "en": "Break up", "ar": "F8" },
+						"type": "CAR"
+					},
+					{
+						"name": "GTC4",
+						"id": "847",
+						"mom_id": "37",
+						"locale": { "en": "GTC4", "ar": "GTC4" },
+						"type": "CAR"
+					},
+					{
+						"name": "MONZA",
+						"id": "849",
+						"mom_id": "37",
+						"locale": { "en": "MONZA", "ar": "MONZA" },
+						"type": "CAR"
+					},
+					{
+						"name": "Roma",
+						"id": "848",
+						"mom_id": "37",
+						"locale": { "en": "Roma", "ar": "Roma" },
+						"type": "CAR"
+					},
+					{
+						"name": "SF90",
+						"id": "851",
+						"mom_id": "37",
+						"locale": { "en": "SF90", "ar": "SF90" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "سيتروين",
+				"locale": { "en": "Citroen", "ar": "سيتروين" },
+				"id": "33",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "C3",
+						"locale": { "en": "C3", "ar": "C3" },
+						"id": "320",
+						"mom_id": "33",
+						"type": "CAR"
+					},
+					{
+						"name": "C4",
+						"locale": { "en": "C4", "ar": "C4" },
+						"id": "322",
+						"mom_id": "33",
+						"type": "CAR"
+					},
+					{
+						"name": "C6",
+						"locale": { "en": "C6", "ar": "C6" },
+						"id": "323",
+						"mom_id": "33",
+						"type": "CAR"
+					},
+					{
+						"name": "اكسارا",
+						"locale": { "en": "Xara", "ar": "اكسارا" },
+						"id": "324",
+						"mom_id": "33",
+						"type": "CAR"
+					},
+					{
+						"name": "C2",
+						"locale": { "en": "C2", "ar": "C2" },
+						"id": "319",
+						"mom_id": "33",
+						"type": "CAR"
+					},
+					{
+						"name": "C1",
+						"locale": { "en": "C1", "ar": "C1" },
+						"id": "321",
+						"mom_id": "33",
+						"type": "CAR"
+					},
+					{
+						"name": "ربجنسي",
+						"id": "318",
+						"mom_id": "33",
+						"locale": { "en": "Regency", "ar": "ربجنسي" },
+						"type": "CAR"
+					},
+					{
+						"name": "برلنجو",
+						"id": "891",
+						"mom_id": "33",
+						"locale": { "en": "Berlingo", "ar": "برلنجو" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "تشيري",
+				"locale": { "en": "Chery", "ar": "شيري" },
+				"id": "55",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "QQ",
+						"locale": { "en": "QQ", "ar": "QQ" },
+						"id": "402",
+						"mom_id": "55",
+						"type": "CAR"
+					},
+					{
+						"name": "A5 تشيري",
+						"locale": { "en": "Chery A5", "ar": "شيري A5" },
+						"id": "399",
+						"mom_id": "55",
+						"type": "CAR"
+					},
+					{
+						"name": "ايستار",
+						"locale": { "en": "EASTAR", "ar": "ايستار" },
+						"id": "398",
+						"mom_id": "55",
+						"type": "CAR"
+					},
+					{
+						"name": "كوين",
+						"locale": { "en": "Quinn", "ar": "كوين" },
+						"id": "397",
+						"mom_id": "55",
+						"type": "CAR"
+					},
+					{
+						"name": "A3 تشيري",
+						"locale": { "en": "Chery A3", "ar": "شيري A3" },
+						"id": "400",
+						"mom_id": "55",
+						"type": "CAR"
+					},
+					{
+						"name": "A1 تشيري",
+						"locale": { "en": "Chery A1", "ar": "شيري A1" },
+						"id": "401",
+						"mom_id": "55",
+						"type": "CAR"
+					},
+					{
+						"name": "اريزو 3",
+						"id": "682",
+						"mom_id": "55",
+						"locale": { "en": "Arezzo 3", "ar": "اريزو 3" },
+						"type": "CAR"
+					},
+					{
+						"name": "اريزو 6",
+						"id": "681",
+						"mom_id": "55",
+						"locale": { "en": "Arezzo 6", "ar": "اريزو 6" },
+						"type": "CAR"
+					},
+					{
+						"name": "تيجو 2",
+						"id": "685",
+						"mom_id": "55",
+						"locale": { "en": "Tiggo 2", "ar": "تيجو 2" },
+						"type": "CAR"
+					},
+					{
+						"name": "تيجو 7",
+						"id": "684",
+						"mom_id": "55",
+						"locale": { "en": "Tiggo 7", "ar": "تيجو 7" },
+						"type": "CAR"
+					},
+					{
+						"name": "تيجو 8",
+						"id": "683",
+						"mom_id": "55",
+						"locale": { "en": "Tiggo 8", "ar": "تيجو 8" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "سيات",
+				"locale": { "en": "Seat", "ar": "سيات" },
+				"id": "51",
+				"mom_id": "1",
+				"type": "CAR"
+			},
+			{
+				"name": "دايو",
+				"locale": { "en": "Daewoo", "ar": "دايو" },
+				"id": "34",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "ليجانزا",
+						"locale": { "en": "Leganza", "ar": "ليجانزا" },
+						"id": "327",
+						"mom_id": "34",
+						"type": "CAR"
+					},
+					{
+						"name": "لانوس",
+						"locale": { "en": "Lanos", "ar": "لانوس" },
+						"id": "325",
+						"mom_id": "34",
+						"type": "CAR"
+					},
+					{
+						"name": "ماتز",
+						"locale": { "en": "Mats", "ar": "ماتز" },
+						"id": "328",
+						"mom_id": "34",
+						"type": "CAR"
+					},
+					{
+						"name": "نوبيرا",
+						"locale": { "en": "Nubira", "ar": "نوبيرا" },
+						"id": "326",
+						"mom_id": "34",
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "ساب",
+				"locale": { "en": "SABB", "ar": "ساب" },
+				"id": "50",
+				"mom_id": "1",
+				"type": "CAR"
+			},
+			{
+				"name": "فيات",
+				"locale": { "en": "Fiat", "ar": "فيات" },
+				"id": "38",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "دولتشي فيتا",
+						"id": "826",
+						"mom_id": "38",
+						"locale": { "en": "Dolce Vita", "ar": "دولتشي فيتا" },
+						"type": "CAR"
+					},
+					{
+						"name": "فيات 500",
+						"id": "824",
+						"mom_id": "38",
+						"locale": { "en": "Fiat 500", "ar": "فيات 500" },
+						"type": "CAR"
+					},
+					{
+						"name": "فيات 500X",
+						"id": "825",
+						"mom_id": "38",
+						"locale": { "en": "Fiat 500X", "ar": "فيات 500X" },
+						"type": "CAR"
+					},
+					{
+						"name": "فيورينو",
+						"id": "892",
+						"mom_id": "38",
+						"locale": { "en": "Fiorino", "ar": "فيورينو" },
+						"type": "CAR"
+					},
+					{
+						"name": "لينيا",
+						"id": "893",
+						"mom_id": "38",
+						"locale": { "en": "Linea", "ar": "لينيا" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "سانج يونج",
+				"locale": { "en": "SsangYong", "ar": "سانج يونج" },
+				"id": "54",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "اكتيون",
+						"locale": { "en": "Actyon", "ar": "اكتيون" },
+						"id": "396",
+						"mom_id": "54",
+						"type": "CAR"
+					},
+					{
+						"name": "موسو",
+						"locale": { "en": "Musso", "ar": "موسو" },
+						"id": "394",
+						"mom_id": "54",
+						"type": "CAR"
+					},
+					{
+						"name": "كوراندو",
+						"locale": { "en": "Korando", "ar": "كوراندو" },
+						"id": "395",
+						"mom_id": "54",
+						"type": "CAR"
+					},
+					{
+						"name": "XLV",
+						"id": "841",
+						"mom_id": "54",
+						"locale": { "en": "XLV", "ar": "XLV" },
+						"type": "CAR"
+					},
+					{
+						"name": "تيفولي",
+						"id": "842",
+						"mom_id": "54",
+						"locale": { "en": "Tivoli", "ar": "تيفولي" },
+						"type": "CAR"
+					},
+					{
+						"name": "ريكستون",
+						"id": "840",
+						"mom_id": "54",
+						"locale": { "en": "Rexton", "ar": "ريكستون" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "استون مارتن",
+				"locale": { "en": "Aston Martin", "ar": "استون مارتن" },
+				"id": "30",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "DB11",
+						"id": "834",
+						"mom_id": "30",
+						"locale": { "en": "DB11", "ar": "DB11" },
+						"type": "CAR"
+					},
+					{
+						"name": "DBS",
+						"id": "835",
+						"mom_id": "30",
+						"locale": { "en": "DBS", "ar": "DBS" },
+						"type": "CAR"
+					},
+					{
+						"name": "رابيد اس",
+						"id": "836",
+						"mom_id": "30",
+						"locale": { "en": "Rapide S", "ar": "رابيد اس" },
+						"type": "CAR"
+					},
+					{
+						"name": "فانتاج",
+						"id": "833",
+						"mom_id": "30",
+						"locale": { "en": "Vantage", "ar": "فانتاج" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "بروتون",
+				"locale": { "en": "Proton", "ar": "بروتون" },
+				"id": "53",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "جن2",
+						"locale": { "en": "GEN•2", "ar": "جين 2" },
+						"id": "391",
+						"mom_id": "53",
+						"type": "CAR"
+					},
+					{
+						"name": "بيرسونا",
+						"locale": { "en": "Persona", "ar": "بيرسونا" },
+						"id": "392",
+						"mom_id": "53",
+						"type": "CAR"
+					},
+					{
+						"name": "واجا",
+						"locale": { "en": "Waja", "ar": "واجا" },
+						"id": "393",
+						"mom_id": "53",
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "هافال",
+				"locale": { "en": "Haval", "ar": "هافال" },
+				"id": "565",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "هافال H2",
+						"locale": { "en": "Haval H2", "ar": "هافال H2" },
+						"id": "566",
+						"mom_id": "565",
+						"type": "CAR"
+					},
+					{
+						"name": "هافال H6",
+						"locale": { "en": "Haval H6", "ar": "هافال H6" },
+						"id": "567",
+						"mom_id": "565",
+						"type": "CAR"
+					},
+					{
+						"name": "هافال H9",
+						"locale": { "en": "Haval H9", "ar": "هافال H9" },
+						"id": "568",
+						"mom_id": "565",
+						"type": "CAR"
+					},
+					{
+						"name": "جوليان",
+						"id": "974",
+						"mom_id": "565",
+						"locale": { "en": "Jolion", "ar": "جوليان" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "جي ايه سي GAC",
+				"locale": { "en": "GAC", "ar": "جي ايه سي GAC" },
+				"id": "570",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "GA3",
+						"locale": { "en": "GA3", "ar": "GA3" },
+						"id": "571",
+						"mom_id": "570",
+						"type": "CAR"
+					},
+					{
+						"name": "GA4",
+						"locale": { "en": "GA4", "ar": "GA4" },
+						"id": "572",
+						"mom_id": "570",
+						"type": "CAR"
+					},
+					{
+						"name": "GA8",
+						"locale": { "en": "GA8", "ar": "GA8" },
+						"id": "573",
+						"mom_id": "570",
+						"type": "CAR"
+					},
+					{
+						"name": "GS3",
+						"locale": { "en": "GS3", "ar": "GS3" },
+						"id": "574",
+						"mom_id": "570",
+						"type": "CAR"
+					},
+					{
+						"name": "GS4",
+						"locale": { "en": "GS4", "ar": "GS4" },
+						"id": "575",
+						"mom_id": "570",
+						"type": "CAR"
+					},
+					{
+						"name": "GS8",
+						"locale": { "en": "GS8", "ar": "GS8" },
+						"id": "576",
+						"mom_id": "570",
+						"type": "CAR"
+					},
+					{
+						"name": "GN6",
+						"id": "828",
+						"mom_id": "570",
+						"locale": { "en": "GN6", "ar": "GN6" },
+						"type": "CAR"
+					},
+					{
+						"name": "GN8",
+						"id": "829",
+						"mom_id": "570",
+						"locale": { "en": "GN8", "ar": "GN8" },
+						"type": "CAR"
+					},
+					{
+						"name": "GS5",
+						"id": "827",
+						"mom_id": "570",
+						"locale": { "en": "GS5", "ar": "GS5" },
+						"type": "CAR"
+					}
+				],
+				"type": "CAR"
+			},
+			{
+				"name": "جريت وول Great Wall",
+				"id": "652",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "ونجل5",
+						"id": "654",
+						"mom_id": "652",
+						"locale": { "en": "Wingle 5", "ar": "ونجل5" },
+						"type": "CAR"
+					},
+					{
+						"name": "ونجل6",
+						"id": "655",
+						"mom_id": "652",
+						"locale": { "en": "Wingle 6", "ar": "ونجل6" },
+						"type": "CAR"
+					},
+					{
+						"name": "ونجل7",
+						"id": "656",
+						"mom_id": "652",
+						"locale": { "en": "Wingle 7", "ar": "ونجل7" },
+						"type": "CAR"
+					},
+					{
+						"name": "باور",
+						"id": "890",
+						"mom_id": "652",
+						"locale": { "en": "POER", "ar": "باور" },
+						"type": "CAR"
+					}
+				],
+				"locale": { "en": "Great Wall", "ar": "جريت وول Great Wall" },
+				"type": "CAR"
+			},
+			{
+				"name": "فاو FAW",
+				"id": "653",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "T80",
+						"id": "662",
+						"mom_id": "653",
+						"locale": { "en": "T80", "ar": "T80" },
+						"type": "CAR"
+					},
+					{
+						"name": "V80",
+						"id": "661",
+						"mom_id": "653",
+						"locale": { "en": "V80", "ar": "V80" },
+						"type": "CAR"
+					},
+					{
+						"name": "أولي",
+						"id": "660",
+						"mom_id": "653",
+						"locale": { "en": "Oley", "ar": "أولي" },
+						"type": "CAR"
+					},
+					{
+						"name": "بسترن B50",
+						"id": "659",
+						"mom_id": "653",
+						"locale": { "en": "Besturn B50", "ar": "بسترن B50" },
+						"type": "CAR"
+					},
+					{
+						"name": "بسترن B70",
+						"id": "658",
+						"mom_id": "653",
+						"locale": { "en": "Besturn B70", "ar": "بسترن B70" },
+						"type": "CAR"
+					},
+					{
+						"name": "بسترن X80",
+						"id": "657",
+						"mom_id": "653",
+						"locale": { "en": "Besturn X80 ", "ar": "بسترن X80" },
+						"type": "CAR"
+					},
+					{
+						"name": "T77",
+						"id": "843",
+						"mom_id": "653",
+						"locale": { "en": "T77", "ar": "T77" },
+						"type": "CAR"
+					},
+					{
+						"name": "X40",
+						"id": "844",
+						"mom_id": "653",
+						"locale": { "en": "X40", "ar": "X40" },
+						"type": "CAR"
+					}
+				],
+				"locale": { "en": "FAW", "ar": "فاو FAW" },
+				"type": "CAR"
+			},
+			{
+				"name": "BYD",
+				"id": "867",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "F3",
+						"id": "870",
+						"mom_id": "867",
+						"locale": { "en": "F3", "ar": "F3" },
+						"type": "CAR"
+					},
+					{
+						"name": "F5",
+						"id": "871",
+						"mom_id": "867",
+						"locale": { "en": "F5", "ar": "F5" },
+						"type": "CAR"
+					},
+					{
+						"name": "F7",
+						"id": "872",
+						"mom_id": "867",
+						"locale": { "en": "F7", "ar": "F7" },
+						"type": "CAR"
+					},
+					{
+						"name": "S6",
+						"id": "873",
+						"mom_id": "867",
+						"locale": { "en": "S6", "ar": "S6" },
+						"type": "CAR"
+					},
+					{
+						"name": "S7",
+						"id": "874",
+						"mom_id": "867",
+						"locale": { "en": "S7", "ar": "S7" },
+						"type": "CAR"
+					}
+				],
+				"locale": { "en": "BYD", "ar": "BYD" },
+				"type": "CAR"
+			},
+			{
+				"name": "الفا روميو",
+				"id": "855",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "جوليا",
+						"id": "857",
+						"mom_id": "855",
+						"locale": { "en": "GIULIA", "ar": "جوليا" },
+						"type": "CAR"
+					},
+					{
+						"name": "جوليتا",
+						"id": "856",
+						"mom_id": "855",
+						"locale": { "en": "GIULIETTA", "ar": "جوليتا" },
+						"type": "CAR"
+					},
+					{
+						"name": "ستلفيو",
+						"id": "858",
+						"mom_id": "855",
+						"locale": { "en": "STELVIO", "ar": "ستلفيو" },
+						"type": "CAR"
+					}
+				],
+				"locale": { "en": "Alfa Romeo", "ar": "الفا روميو" },
+				"type": "CAR"
+			},
+			{
+				"name": "تاتا",
+				"id": "859",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "زينون",
+						"id": "868",
+						"mom_id": "859",
+						"locale": { "en": "XENON", "ar": "زينون" },
+						"type": "CAR"
+					}
+				],
+				"locale": { "en": "TATA", "ar": "تاتا" },
+				"type": "CAR"
+			},
+			{
+				"name": "جى ام سي JMC",
+				"id": "862",
+				"mom_id": "1",
+				"locale": { "en": "JMC", "ar": "جى ام سي JMC" },
+				"type": "CAR"
+			},
+			{
+				"name": "جيتور",
+				"id": "852",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "X70",
+						"id": "853",
+						"mom_id": "852",
+						"locale": { "en": "X70", "ar": "X70" },
+						"type": "CAR"
+					},
+					{
+						"name": "X70S",
+						"id": "854",
+						"mom_id": "852",
+						"locale": { "en": "X70S", "ar": "X70S" },
+						"type": "CAR"
+					},
+					{
+						"name": "X90",
+						"id": "987",
+						"mom_id": "852",
+						"locale": { "en": "X90", "ar": "X90" },
+						"type": "CAR"
+					}
+				],
+				"locale": { "en": "JETOUR", "ar": "جيتور" },
+				"type": "CAR"
+			},
+			{
+				"name": "سي ام سي",
+				"id": "866",
+				"mom_id": "1",
+				"locale": { "en": "CMC", "ar": "سي ام سي" },
+				"type": "CAR"
+			},
+			{
+				"name": "فوتون",
+				"id": "861",
+				"mom_id": "1",
+				"children": [
+					{
+						"name": "تونلاند",
+						"id": "869",
+						"mom_id": "861",
+						"locale": { "en": "Tunland", "ar": "تونلاند" },
+						"type": "CAR"
+					}
+				],
+				"locale": { "en": "Foton", "ar": "فوتون" },
+				"type": "CAR"
+			},
+			{
+				"name": "فيكتوري اوتو",
+				"id": "864",
+				"mom_id": "1",
+				"locale": { "en": "VICTORY AUTO", "ar": "فيكتوري اوتو" },
+				"type": "CAR"
+			},
+			{
+				"name": "ليفان",
+				"id": "860",
+				"mom_id": "1",
+				"locale": { "en": "Lifan", "ar": "ليفان" },
+				"type": "CAR"
+			},
+			{
+				"name": "ماكسيس",
+				"id": "863",
+				"mom_id": "1",
+				"locale": { "en": "MAXUS", "ar": "ماكسيس" },
+				"type": "CAR"
+			},
+			{
+				"name": "ماكلارين",
+				"id": "865",
+				"mom_id": "1",
+				"locale": { "en": "McLaren", "ar": "ماكلارين" },
+				"type": "CAR"
+			},
+			{
+				"name": "جاك JAC",
+				"id": "884",
+				"mom_id": "1",
+				"locale": { "en": "JAC", "ar": "جاك JAC" },
+				"type": "CAR"
+			},
+			{
+				"name": "بايك",
+				"id": "903",
+				"mom_id": "1",
+				"locale": { "en": "Baic", "ar": "بايك" },
+				"type": "CAR"
+			},
+			{
+				"name": "تسلا",
+				"id": "905",
+				"mom_id": "1",
+				"locale": { "en": "Tesla", "ar": "تسلا" },
+				"type": "CAR"
+			},
+			{
+				"name": "ساوايست",
+				"id": "904",
+				"mom_id": "1",
+				"locale": { "en": "Soueaste", "ar": "ساوايست" },
+				"type": "CAR"
+			},
+			{
+				"name": "ماهيندرا",
+				"id": "939",
+				"mom_id": "1",
+				"locale": { "en": "Mahindra", "ar": "ماهيندرا" },
+				"type": "CAR"
+			},
+			{
+				"name": "زوتي",
+				"id": "976",
+				"mom_id": "1",
+				"locale": { "en": "Zotye", "ar": "زوتي" },
+				"type": "CAR"
+			},
+			{
+				"name": "هونشي",
+				"id": "972",
+				"mom_id": "1",
+				"locale": { "en": "Hongqi", "ar": "هونشي" },
+				"type": "CAR"
+			}
+		],
+		"type": "MAIN"
+	},
+	{
+		"name": "حراج العقار",
+		"locale": { "ar": "حراج العقار", "en": "Real Estate" },
+		"id": "2",
+		"mom_id": "0",
+		"children": [
+			{
+				"name": "اراضي للبيع",
+				"locale": { "en": "Lands For Sale", "ar": "اراضي للبيع" },
+				"id": "435",
+				"mom_id": "2",
+				"type": "REALESTATE"
+			},
+			{
+				"name": "شقق للايجار",
+				"locale": { "en": "Apartments for Rent", "ar": "شقق للايجار" },
+				"id": "437",
+				"mom_id": "2",
+				"type": "REALESTATE"
+			},
+			{
+				"name": "فلل للبيع",
+				"locale": { "en": "Villas for sale", "ar": "فلل للبيع" },
+				"id": "439",
+				"mom_id": "2",
+				"type": "REALESTATE"
+			},
+			{
+				"name": "شقق للبيع",
+				"locale": { "en": "Apartments for sale", "ar": "شقق للبيع" },
+				"id": "438",
+				"mom_id": "2",
+				"type": "REALESTATE"
+			},
+			{
+				"name": "بيوت للبيع",
+				"locale": { "en": "Houses for sale", "ar": "بيوت للبيع" },
+				"id": "447",
+				"mom_id": "2",
+				"type": "REALESTATE"
+			},
+			{
+				"name": "اراضي تجارية للبيع",
+				"locale": {
+					"en": "Commercial Land For Sale",
+					"ar": "اراضي تجارية للبيع"
+				},
+				"id": "436",
+				"mom_id": "2",
+				"type": "REALESTATE"
+			},
+			{
+				"name": "عمارة للبيع",
+				"id": "885",
+				"mom_id": "2",
+				"locale": { "en": "Building for sale", "ar": "عمارة للبيع" },
+				"type": "REALESTATE"
+			},
+			{
+				"name": "استراحات للايجار",
+				"locale": {
+					"en": "Chalets for rent",
+					"ar": "استراحات للايجار"
+				},
+				"id": "446",
+				"mom_id": "2",
+				"type": "REALESTATE"
+			},
+			{
+				"name": "محلات للتقبيل",
+				"locale": { "en": "Shops for waiver", "ar": "محلات للتقبيل" },
+				"id": "442",
+				"mom_id": "2",
+				"type": "REALESTATE"
+			},
+			{
+				"name": "محلات للايجار",
+				"locale": { "en": "Shops for rent", "ar": "محلات للايجار" },
+				"id": "443",
+				"mom_id": "2",
+				"type": "REALESTATE"
+			},
+			{
+				"name": "عماره للايجار",
+				"locale": { "en": "Buildings for rent", "ar": "عماره للايجار" },
+				"id": "441",
+				"mom_id": "2",
+				"type": "REALESTATE"
+			},
+			{
+				"name": "استراحات للبيع",
+				"locale": { "en": "Chalets for sale", "ar": "استراحات للبيع" },
+				"id": "445",
+				"mom_id": "2",
+				"type": "REALESTATE"
+			},
+			{
+				"name": "فلل للايجار",
+				"locale": { "en": "Villas for rent", "ar": "فلل للايجار" },
+				"id": "440",
+				"mom_id": "2",
+				"type": "REALESTATE"
+			},
+			{
+				"name": "مزارع للبيع",
+				"locale": { "en": "Farms for sale", "ar": "مزارع للبيع" },
+				"id": "444",
+				"mom_id": "2",
+				"type": "REALESTATE"
+			},
+			{
+				"name": "ادوار للايجار",
+				"locale": {
+					"en": "Floors Through for rent",
+					"ar": "ادوار للايجار"
+				},
+				"id": "449",
+				"mom_id": "2",
+				"type": "REALESTATE"
+			},
+			{
+				"name": "بيوت للايجار",
+				"locale": { "en": "Houses for rent", "ar": "بيوت للايجار" },
+				"id": "448",
+				"mom_id": "2",
+				"type": "REALESTATE"
+			},
+			{
+				"name": "دور للبيع",
+				"id": "1124",
+				"mom_id": "2",
+				"locale": { "en": "Floor Through For Sale", "ar": "دور للبيع" },
+				"type": "REALESTATE"
+			},
+			{
+				"name": "شاليهات للايجار",
+				"id": "1122",
+				"mom_id": "2",
+				"locale": { "en": "Chalets For Rent", "ar": "شاليهات للايجار" },
+				"type": "REALESTATE"
+			},
+			{
+				"name": "شاليهات للبيع",
+				"id": "1125",
+				"mom_id": "2",
+				"locale": { "en": "Chalets for sale", "ar": "شاليهات للبيع" },
+				"type": "REALESTATE"
+			},
+			{
+				"name": "غرف للايجار",
+				"id": "1129",
+				"mom_id": "2",
+				"locale": { "en": "Rooms for rent", "ar": "غرف للايجار" },
+				"type": "REALESTATE"
+			},
+			{
+				"name": "قاعة للايجار",
+				"id": "1130",
+				"mom_id": "2",
+				"locale": { "en": "Hall for rent", "ar": "قاعة للايجار" },
+				"type": "REALESTATE"
+			},
+			{
+				"name": "كمباوند للايجار",
+				"id": "1126",
+				"mom_id": "2",
+				"locale": {
+					"en": "Compound for rent",
+					"ar": "كمباوند للايجار"
+				},
+				"type": "REALESTATE"
+			},
+			{
+				"name": "كمباوند للبيع",
+				"id": "1123",
+				"mom_id": "2",
+				"locale": { "en": "Compound for sale", "ar": "كمباوند للبيع" },
+				"type": "REALESTATE"
+			},
+			{
+				"name": "مخيمات للايجار",
+				"id": "1127",
+				"mom_id": "2",
+				"locale": { "en": "Camps for rent", "ar": "مخيمات للايجار" },
+				"type": "REALESTATE"
+			},
+			{
+				"name": "مزرعة للايجار",
+				"id": "1128",
+				"mom_id": "2",
+				"locale": { "en": "Farm for rent", "ar": "مزرعة للايجار" },
+				"type": "REALESTATE"
+			},
+			{
+				"name": "مستودع للبيع",
+				"id": "1121",
+				"mom_id": "2",
+				"locale": { "en": "Warehouse for sale", "ar": "مستودع للبيع" },
+				"type": "REALESTATE"
+			},
+			{
+				"name": "مستودعات للايجار",
+				"id": "1120",
+				"mom_id": "2",
+				"locale": {
+					"en": "Warehouses for rent",
+					"ar": "مستودعات للايجار"
+				},
+				"type": "REALESTATE"
+			},
+			{
+				"name": "مكاتب للايجار",
+				"id": "1131",
+				"mom_id": "2",
+				"locale": { "en": "Offices For Rent", "ar": "مكاتب للايجار" },
+				"type": "REALESTATE"
+			}
+		],
+		"type": "MAIN"
+	},
+	{
+		"name": "حراج الأجهزة",
+		"locale": { "ar": "حراج الأجهزة", "en": "Devices" },
+		"id": "3",
+		"mom_id": "0",
+		"children": [
+			{
+				"name": "ابل Apple",
+				"locale": { "en": "Apple", "ar": "ابل Apple" },
+				"id": "61",
+				"mom_id": "3",
+				"children": [
+					{
+						"name": "ايفون iPhone",
+						"locale": { "en": "iPhone", "ar": "ايفون iPhone" },
+						"id": "469",
+						"mom_id": "61",
+						"type": "DEVICE"
+					},
+					{
+						"name": "ايباد iPad",
+						"locale": { "en": "iPad", "ar": "ايباد iPad" },
+						"id": "470",
+						"mom_id": "61",
+						"type": "DEVICE"
+					},
+					{
+						"name": "ماك بوك MacBook",
+						"locale": { "en": "MacBook", "ar": "ماك بوك MacBook" },
+						"id": "472",
+						"mom_id": "61",
+						"type": "DEVICE"
+					},
+					{
+						"name": "ايبود iPod",
+						"locale": { "en": "iPod", "ar": "ايبود iPod" },
+						"id": "471",
+						"mom_id": "61",
+						"type": "DEVICE"
+					},
+					{
+						"name": "ساعة أبل Apple Watch",
+						"locale": {
+							"en": "Apple Watch",
+							"ar": "ساعة أبل Apple Watch"
+						},
+						"id": "544",
+						"mom_id": "61",
+						"type": "DEVICE"
+					}
+				],
+				"type": "DEVICE"
+			},
+			{
+				"name": "اجهزة غير مصنفة",
+				"locale": {
+					"en": "Uncategorized Devices",
+					"ar": "اجهزة غير مصنفة"
+				},
+				"id": "510",
+				"mom_id": "3",
+				"type": "DEVICE"
+			},
+			{
+				"name": "سامسونج Samsung",
+				"locale": { "en": "Samsung", "ar": "سامسونج Samsung" },
+				"id": "63",
+				"mom_id": "3",
+				"children": [
+					{
+						"name": "جالكسي اس GALAXY S",
+						"locale": {
+							"en": "GALAXY S",
+							"ar": "جالكسي اس"
+						},
+						"id": "473",
+						"mom_id": "63",
+						"type": "DEVICE"
+					},
+					{
+						"name": "جالكسي نوت Galaxy Note",
+						"locale": {
+							"en": "GALAXY Note",
+							"ar": "جالكسي نوت"
+						},
+						"id": "475",
+						"mom_id": "63",
+						"type": "DEVICE"
+					},
+					{
+						"name": "جالكسي تاب GALAXY Tab",
+						"locale": {
+							"en": "GALAXY Tab",
+							"ar": "جالكسي تاب"
+						},
+						"id": "474",
+						"mom_id": "63",
+						"type": "DEVICE"
+					},
+					{
+						"name": "ثلاجة سامسونج",
+						"locale": {
+							"en": "Samsung Refrigerator",
+							"ar": "ثلاجة سامسونج"
+						},
+						"id": "476",
+						"mom_id": "63",
+						"type": "DEVICE"
+					},
+					{
+						"name": "كاميرا سامسونج",
+						"locale": {
+							"en": "Samsung Camera",
+							"ar": "كاميرا سامسونج"
+						},
+						"id": "477",
+						"mom_id": "63",
+						"type": "DEVICE"
+					},
+					{
+						"name": "غسالة سامسونج",
+						"locale": {
+							"en": "Samsung Washer",
+							"ar": "غسالة سامسونج"
+						},
+						"id": "478",
+						"mom_id": "63",
+						"type": "DEVICE"
+					}
+				],
+				"type": "DEVICE"
+			},
+			{
+				"name": "سوني Sony",
+				"locale": { "en": "Sony", "ar": "سوني Sony" },
+				"id": "66",
+				"mom_id": "3",
+				"children": [
+					{
+						"name": "اجهزة بلاي ستيشن PS",
+						"locale": {
+							"en": "PlayStation",
+							"ar": "اجهزة بلاي ستيشن PS"
+						},
+						"id": "516",
+						"mom_id": "66",
+						"type": "DEVICE"
+					},
+					{
+						"name": "العاب بلاي ستيشن PS",
+						"locale": {
+							"en": "PlayStation Games",
+							"ar": "العاب بلاي ستيشن PS"
+						},
+						"id": "515",
+						"mom_id": "66",
+						"type": "DEVICE"
+					},
+					{
+						"name": "جوال اكسبيريا Xperia",
+						"locale": {
+							"en": "Xperia Phones",
+							"ar": "جوال اكسبيريا Xperia"
+						},
+						"id": "517",
+						"mom_id": "66",
+						"type": "DEVICE"
+					},
+					{
+						"name": "لاب توب",
+						"locale": { "en": "Laptop", "ar": "لاب توب" },
+						"id": "518",
+						"mom_id": "66",
+						"type": "DEVICE"
+					},
+					{
+						"name": "شاشة",
+						"locale": { "en": "Screens", "ar": "شاشة" },
+						"id": "519",
+						"mom_id": "66",
+						"type": "DEVICE"
+					}
+				],
+				"type": "DEVICE"
+			},
+			{
+				"name": "أرقام مميزة",
+				"locale": { "en": "Special Numbers", "ar": "أرقام مميزة" },
+				"id": "465",
+				"mom_id": "3",
+				"children": [
+					{
+						"name": "ارقام مميزة من الاتصالات السعودية STC",
+						"locale": {
+							"en": "Special Numbers from STC",
+							"ar": "ارقام مميزة من الاتصالات السعودية STC"
+						},
+						"id": "466",
+						"mom_id": "465",
+						"type": "DEVICE"
+					},
+					{
+						"name": "ارقام مميزة من موبايلي Mobily",
+						"locale": {
+							"en": "Special Numbers from Mobily",
+							"ar": "ارقام مميزة من موبايلي Mobily"
+						},
+						"id": "467",
+						"mom_id": "465",
+						"type": "DEVICE"
+					},
+					{
+						"name": "ارقام مميزة من زين Zain",
+						"locale": {
+							"en": "Special Numbers from Zain",
+							"ar": "ارقام مميزة من زين Zain"
+						},
+						"id": "468",
+						"mom_id": "465",
+						"type": "DEVICE"
+					}
+				],
+				"type": "DEVICE"
+			},
+			{
+				"name": "بلاك بيري BlackBerry",
+				"locale": { "en": "BlackBerry", "ar": "بلاك بيري BlackBerry" },
+				"id": "497",
+				"mom_id": "3",
+				"type": "DEVICE"
+			},
+			{
+				"name": "كانون Canon",
+				"locale": { "en": "Canon", "ar": "كانون Canon" },
+				"id": "64",
+				"mom_id": "3",
+				"type": "DEVICE"
+			},
+			{
+				"name": "ال جي LG",
+				"locale": { "en": "LG", "ar": "ال جي LG" },
+				"id": "70",
+				"mom_id": "3",
+				"type": "DEVICE"
+			},
+			{
+				"name": "نوكيا Nokia",
+				"locale": { "en": "Nokia", "ar": "نوكيا Nokia" },
+				"id": "62",
+				"mom_id": "3",
+				"type": "DEVICE"
+			},
+			{
+				"name": "مايكروسوفت Microsoft",
+				"locale": { "en": "Microsoft", "ar": "مايكروسوفت Microsoft" },
+				"id": "73",
+				"mom_id": "3",
+				"children": [
+					{
+						"name": "العاب اكس بوكس Xbox",
+						"locale": {
+							"en": "Xbox Games",
+							"ar": "العاب اكس بوكس Xbox"
+						},
+						"id": "512",
+						"mom_id": "73",
+						"type": "DEVICE"
+					},
+					{
+						"name": "اجهزة اكس بوكس Xbox",
+						"locale": { "en": "Xbox", "ar": "اجهزة اكس بوكس Xbox" },
+						"id": "513",
+						"mom_id": "73",
+						"type": "DEVICE"
+					},
+					{
+						"name": "سورفس Surface",
+						"locale": { "en": "Surface", "ar": "سورفس Surface" },
+						"id": "514",
+						"mom_id": "73",
+						"type": "DEVICE"
+					}
+				],
+				"type": "DEVICE"
+			},
+			{
+				"name": "نيكون nikon",
+				"locale": { "en": "Nikon", "ar": "نيكون nikon" },
+				"id": "499",
+				"mom_id": "3",
+				"type": "DEVICE"
+			},
+			{
+				"name": "اتش تي سي htc",
+				"locale": { "en": "htc", "ar": "اتش تي سي htc" },
+				"id": "500",
+				"mom_id": "3",
+				"type": "DEVICE"
+			},
+			{
+				"name": "توشيبا Toshiba",
+				"locale": { "en": "Toshiba", "ar": "توشيبا Toshiba" },
+				"id": "69",
+				"mom_id": "3",
+				"type": "DEVICE"
+			},
+			{
+				"name": "ديل DELL",
+				"locale": { "en": "DELL", "ar": "ديل DELL" },
+				"id": "508",
+				"mom_id": "3",
+				"type": "DEVICE"
+			},
+			{
+				"name": "هواوي Huawei",
+				"locale": { "en": "Huawei", "ar": "هواوي Huawei" },
+				"id": "542",
+				"mom_id": "3",
+				"type": "DEVICE"
+			},
+			{
+				"name": "اسوس Asus",
+				"locale": { "en": "Asus", "ar": "اسوس Asus" },
+				"id": "74",
+				"mom_id": "3",
+				"type": "DEVICE"
+			},
+			{
+				"name": "ايسر Acer",
+				"locale": { "en": "Acer", "ar": "ايسر Acer" },
+				"id": "68",
+				"mom_id": "3",
+				"type": "DEVICE"
+			},
+			{
+				"name": "باناسونيك Panasonic",
+				"locale": { "en": "Panasonic", "ar": "باناسونيك Panasonic" },
+				"id": "71",
+				"mom_id": "3",
+				"type": "DEVICE"
+			},
+			{
+				"name": "فوجي فيلم fujifilm",
+				"locale": { "en": "fujifilm", "ar": "فوجي فيلم fujifilm" },
+				"id": "72",
+				"mom_id": "3",
+				"type": "DEVICE"
+			},
+			{
+				"name": "هيتاشي Hitachi",
+				"locale": { "en": "Hitachi", "ar": "هيتاشي Hitachi" },
+				"id": "482",
+				"mom_id": "3",
+				"type": "DEVICE"
+			},
+			{
+				"name": "اوليمبوس Olympus",
+				"locale": { "en": "Olympus", "ar": "اوليمبوس Olympus" },
+				"id": "65",
+				"mom_id": "3",
+				"type": "DEVICE"
+			},
+			{
+				"name": "أجهزة تابلت",
+				"id": "907",
+				"mom_id": "3",
+				"locale": { "en": "Tablets​", "ar": "أجهزة تابلت" },
+				"type": "DEVICE"
+			},
+			{
+				"name": "أجهزة كمبيوتر",
+				"id": "909",
+				"mom_id": "3",
+				"children": [
+					{
+						"name": "أجهزة شبكات",
+						"id": "917",
+						"mom_id": "909",
+						"locale": { "en": "Networking​", "ar": "أجهزة شبكات" },
+						"type": "DEVICE"
+					},
+					{
+						"name": "شاشات وبرجكتر",
+						"id": "916",
+						"mom_id": "909",
+						"locale": {
+							"en": "Displays & Projectors",
+							"ar": "شاشات وبرجكتر"
+						},
+						"type": "DEVICE"
+					},
+					{
+						"name": "طابعات ومساحات",
+						"id": "915",
+						"mom_id": "909",
+						"locale": {
+							"en": "Printers & Scanners​",
+							"ar": "طابعات ومساحات"
+						},
+						"type": "DEVICE"
+					},
+					{
+						"name": "كمبيوتر مكتبي",
+						"id": "914",
+						"mom_id": "909",
+						"locale": { "en": "PC​", "ar": "كمبيوتر مكتبي" },
+						"type": "DEVICE"
+					},
+					{
+						"name": "لابتوب",
+						"id": "930",
+						"mom_id": "909",
+						"locale": { "en": "Laptops​", "ar": "لابتوب" },
+						"type": "DEVICE"
+					},
+					{
+						"name": "ملحقات كمبيوتر",
+						"id": "918",
+						"mom_id": "909",
+						"locale": {
+							"en": "Computers Accessories",
+							"ar": "ملحقات كمبيوتر"
+						},
+						"type": "DEVICE"
+					}
+				],
+				"locale": { "en": "Computers", "ar": "أجهزة كمبيوتر" },
+				"type": "DEVICE"
+			},
+			{
+				"name": "ألعاب إلكترونية",
+				"id": "908",
+				"mom_id": "3",
+				"locale": { "en": "Gaming​", "ar": "ألعاب إلكترونية" },
+				"type": "DEVICE",
+				"children": [
+					{
+						"name": "نظارات VR",
+						"id": "913",
+						"mom_id": "3",
+						"locale": { "en": "VR Headsets", "ar": "نظارات VR" },
+						"type": "DEVICE"
+					}
+				]
+			},
+			{
+				"name": "تلفزيونات وصوتيات",
+				"id": "910",
+				"mom_id": "3",
+				"children": [
+					{
+						"name": "تلفزيونات",
+						"id": "919",
+						"mom_id": "910",
+						"locale": { "en": "TV​", "ar": "تلفزيونات" },
+						"type": "DEVICE"
+					},
+					{
+						"name": "رسيفرات",
+						"id": "921",
+						"mom_id": "910",
+						"locale": { "en": "Receivers​", "ar": "رسيفرات" },
+						"type": "DEVICE"
+					},
+					{
+						"name": "صوتيات",
+						"id": "920",
+						"mom_id": "910",
+						"locale": { "en": "Audio​", "ar": "صوتيات" },
+						"type": "DEVICE"
+					}
+				],
+				"locale": { "en": "TV & Audio", "ar": "تلفزيونات وصوتيات" },
+				"type": "DEVICE"
+			},
+			{
+				"name": "جوالات",
+				"id": "906",
+				"mom_id": "3",
+				"locale": { "en": "Phones", "ar": "جوالات" },
+				"type": "DEVICE"
+			},
+			{
+				"name": "حسابات واشتراكات",
+				"id": "912",
+				"mom_id": "3",
+				"children": [
+					{
+						"name": "ببجي",
+						"id": "926",
+						"mom_id": "912",
+						"locale": { "en": "Pubg​", "ar": "ببجي" },
+						"type": "DEVICE"
+					},
+					{
+						"name": "حسابات أخرى",
+						"id": "932",
+						"mom_id": "912",
+						"locale": {
+							"en": "Other Accounts",
+							"ar": "حسابات أخرى"
+						},
+						"type": "DEVICE"
+					},
+					{
+						"name": "فورت نايت",
+						"id": "927",
+						"mom_id": "912",
+						"locale": { "en": "Fortnite", "ar": "فورت نايت" },
+						"type": "DEVICE"
+					},
+					{
+						"name": "فيفا",
+						"id": "928",
+						"mom_id": "912",
+						"locale": { "en": "FIFA​", "ar": "فيفا" },
+						"type": "DEVICE"
+					},
+					{
+						"name": "كلاش اوفكلانس",
+						"id": "931",
+						"mom_id": "912",
+						"locale": {
+							"en": "Clash of Clans",
+							"ar": "كلاش اوفكلانس"
+						},
+						"type": "DEVICE"
+					},
+					{
+						"name": "كلاش رويال",
+						"id": "929",
+						"mom_id": "912",
+						"locale": { "en": "Clash Royale", "ar": "كلاش رويال" },
+						"type": "DEVICE"
+					}
+				],
+				"locale": {
+					"en": "Accounts​ and Subscriptions",
+					"ar": "حسابات واشتراكات"
+				},
+				"type": "DEVICE"
+			},
+			{
+				"name": "كاميرات تصوير",
+				"id": "911",
+				"mom_id": "3",
+				"children": [
+					{
+						"name": "درون",
+						"id": "924",
+						"mom_id": "911",
+						"locale": { "en": "Drones", "ar": "درون" },
+						"type": "DEVICE"
+					},
+					{
+						"name": "عدسات",
+						"id": "923",
+						"mom_id": "911",
+						"locale": { "en": "Lenses", "ar": "عدسات" },
+						"type": "DEVICE"
+					},
+					{
+						"name": "كاميرات",
+						"id": "922",
+						"mom_id": "911",
+						"locale": { "en": "Cameras​", "ar": "كاميرات" },
+						"type": "DEVICE"
+					},
+					{
+						"name": "ملحقات كاميرات",
+						"id": "925",
+						"mom_id": "911",
+						"locale": {
+							"en": "Cameras Accessories",
+							"ar": "ملحقات كاميرات"
+						},
+						"type": "DEVICE"
+					}
+				],
+				"locale": { "en": "Digital Cameras", "ar": "كاميرات تصوير" },
+				"type": "DEVICE"
+			}
+		],
+		"type": "MAIN"
+	},
+	{
+		"name": "كل الحراج",
+		"locale": { "ar": "كل الحراج", "en": "All Auctions" },
+		"id": "4",
+		"mom_id": "0",
+		"children": [
+			{
+				"name": "مواشي وحيوانات وطيور",
+				"locale": {
+					"en": "Animals, livestock and birds",
+					"ar": "مواشي وحيوانات وطيور"
+				},
+				"id": "450",
+				"mom_id": "4",
+				"children": [
+					{
+						"name": "غنم",
+						"locale": { "en": "Sheep", "ar": "غنم" },
+						"id": "451",
+						"mom_id": "450",
+						"children": [
+							{
+								"name": "غنم بربري",
+								"id": "711",
+								"mom_id": "451",
+								"locale": {
+									"en": "Sheep Burberry",
+									"ar": "غنم بربري"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "غنم حري",
+								"id": "708",
+								"mom_id": "451",
+								"locale": {
+									"en": "Sheep Harri",
+									"ar": "غنم حري"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "غنم روماني",
+								"id": "712",
+								"mom_id": "451",
+								"locale": {
+									"en": "Romanian sheep",
+									"ar": "غنم روماني"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "غنم سواكني",
+								"id": "710",
+								"mom_id": "451",
+								"locale": {
+									"en": "Sheep Soakny",
+									"ar": "غنم سواكني"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "غنم نجدي",
+								"id": "709",
+								"mom_id": "451",
+								"locale": {
+									"en": "Sheep Najdi",
+									"ar": "غنم نجدي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "غنم نعيمي",
+								"id": "707",
+								"mom_id": "451",
+								"locale": {
+									"en": "Sheep Naeemi",
+									"ar": "غنم نعيمي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "مستلزمات اغنام",
+								"id": "714",
+								"mom_id": "451",
+								"locale": {
+									"en": "Sheep Supplies",
+									"ar": "مستلزمات اغنام"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "منتجات اغنام",
+								"id": "713",
+								"mom_id": "451",
+								"locale": {
+									"en": "Sheep products",
+									"ar": "منتجات اغنام"
+								},
+								"type": "ANIMAL"
+							}
+						],
+						"type": "ANIMAL"
+					},
+					{
+						"name": "ماعز",
+						"locale": { "en": "Goats", "ar": "ماعز" },
+						"id": "453",
+						"mom_id": "450",
+						"children": [
+							{
+								"name": "ماعز بلدي",
+								"id": "751",
+								"mom_id": "453",
+								"locale": {
+									"en": "Native Goat",
+									"ar": "ماعز بلدي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "ماعز بيشي",
+								"id": "749",
+								"mom_id": "453",
+								"locale": {
+									"en": "Goat Baishe",
+									"ar": "ماعز بيشي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "ماعز جنوبي",
+								"id": "748",
+								"mom_id": "453",
+								"locale": {
+									"en": "South goats",
+									"ar": "ماعز جنوبي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "ماعز حجازي",
+								"id": "747",
+								"mom_id": "453",
+								"locale": {
+									"en": "Hijazi goats",
+									"ar": "ماعز حجازي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "ماعز شامي",
+								"id": "745",
+								"mom_id": "453",
+								"locale": {
+									"en": "Shami goats",
+									"ar": "ماعز شامي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "ماعز عارضي",
+								"id": "746",
+								"mom_id": "453",
+								"locale": {
+									"en": "Ardih goats",
+									"ar": "ماعز عارضي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "ماعز هولندي",
+								"id": "750",
+								"mom_id": "453",
+								"locale": {
+									"en": "Dutch goat",
+									"ar": "ماعز هولندي"
+								},
+								"type": "ANIMAL"
+							}
+						],
+						"type": "ANIMAL"
+					},
+					{
+						"name": "ببغاء",
+						"locale": { "en": "Parrot", "ar": "ببغاء" },
+						"id": "511",
+						"mom_id": "450",
+						"children": [
+							{
+								"name": "ببغاء امزوني",
+								"id": "720",
+								"mom_id": "511",
+								"locale": {
+									"en": "Parrot Amzona",
+									"ar": "ببغاء امزوني"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "ببغاء كاسكو",
+								"id": "717",
+								"mom_id": "511",
+								"locale": {
+									"en": "Parrot Casco",
+									"ar": "ببغاء كاسكو"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "ببغاء كوكاتو",
+								"id": "716",
+								"mom_id": "511",
+								"locale": {
+									"en": "Parrot Cockatoo",
+									"ar": "ببغاء كوكاتو"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "ببغاء مكاو",
+								"id": "715",
+								"mom_id": "511",
+								"locale": {
+									"en": "Parrot Macau",
+									"ar": "ببغاء مكاو"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "طيور زينة",
+								"id": "721",
+								"mom_id": "511",
+								"locale": {
+									"en": "Zina birds",
+									"ar": "طيور زينة"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "مستلزمات طيور",
+								"id": "722",
+								"mom_id": "511",
+								"locale": {
+									"en": "Birds Supplies",
+									"ar": "مستلزمات طيور"
+								},
+								"type": "ANIMAL"
+							}
+						],
+						"type": "ANIMAL"
+					},
+					{
+						"name": "حمام",
+						"locale": { "en": "Pigeons", "ar": "حمام" },
+						"id": "456",
+						"mom_id": "450",
+						"children": [
+							{
+								"name": "حمام باكستاني",
+								"id": "719",
+								"mom_id": "456",
+								"locale": {
+									"en": "Pakistani Pigeon",
+									"ar": "حمام باكستاني"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "حمام تركي",
+								"id": "727",
+								"mom_id": "456",
+								"locale": {
+									"en": "Turkish Pigeon",
+									"ar": "حمام تركي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "حمام زاجل",
+								"id": "718",
+								"mom_id": "456",
+								"locale": { "en": "Homers", "ar": "حمام زاجل" },
+								"type": "ANIMAL"
+							},
+							{
+								"name": "حمام سوداني",
+								"id": "730",
+								"mom_id": "456",
+								"locale": {
+									"en": "Sudanese Pigeon",
+									"ar": "حمام سوداني"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "حمام شامي",
+								"id": "729",
+								"mom_id": "456",
+								"locale": {
+									"en": "Shami Pigeon",
+									"ar": "حمام شامي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "حمام صنعاني",
+								"id": "725",
+								"mom_id": "456",
+								"locale": {
+									"en": "Pigeon Snani",
+									"ar": "حمام صنعاني"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "حمام فرنسي",
+								"id": "723",
+								"mom_id": "456",
+								"locale": {
+									"en": "French Pigeon",
+									"ar": "حمام فرنسي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "حمام مصري",
+								"id": "728",
+								"mom_id": "456",
+								"locale": {
+									"en": "Egyptian Pigeon",
+									"ar": "حمام مصري"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "حمام هندي",
+								"id": "724",
+								"mom_id": "456",
+								"locale": {
+									"en": "Indian Pigeon",
+									"ar": "حمام هندي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "حمام هولندي",
+								"id": "726",
+								"mom_id": "456",
+								"locale": {
+									"en": "Dutch Pigeon",
+									"ar": "حمام هولندي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "مستلزمات حمام",
+								"id": "731",
+								"mom_id": "456",
+								"locale": {
+									"en": "Pigeon Supplies",
+									"ar": "مستلزمات حمام"
+								},
+								"type": "ANIMAL"
+							}
+						],
+						"type": "ANIMAL"
+					},
+					{
+						"name": "قطط",
+						"locale": { "en": "Cats", "ar": "قطط" },
+						"id": "457",
+						"mom_id": "450",
+						"children": [
+							{
+								"name": "قطط سكوتش",
+								"id": "734",
+								"mom_id": "457",
+								"locale": {
+									"en": "Cats Scotch",
+									"ar": "قطط سكوتش"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "قطط شيرازي",
+								"id": "732",
+								"mom_id": "457",
+								"locale": {
+									"en": "Cats Sherzai",
+									"ar": "قطط شيرازي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "قطط للتبني",
+								"id": "735",
+								"mom_id": "457",
+								"locale": {
+									"en": "Cats for adoption",
+									"ar": "قطط للتبني"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "قطط هملايا",
+								"id": "733",
+								"mom_id": "457",
+								"locale": {
+									"en": "Cats Himalayan",
+									"ar": "قطط هملايا"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "مستلزمات قطط",
+								"id": "736",
+								"mom_id": "457",
+								"locale": {
+									"en": "Cats Supplies",
+									"ar": "مستلزمات قطط"
+								},
+								"type": "ANIMAL"
+							}
+						],
+						"type": "ANIMAL"
+					},
+					{
+						"name": "دجاج",
+						"locale": { "en": "Chicken", "ar": "دجاج" },
+						"id": "455",
+						"mom_id": "450",
+						"children": [
+							{
+								"name": "دجاج براهما",
+								"id": "737",
+								"mom_id": "455",
+								"locale": {
+									"en": "Chicken Brahma",
+									"ar": "دجاج براهما"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "دجاج بلدي",
+								"id": "739",
+								"mom_id": "455",
+								"locale": {
+									"en": "Native Chicken",
+									"ar": "دجاج بلدي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "دجاج تركي",
+								"id": "740",
+								"mom_id": "455",
+								"locale": {
+									"en": "Turkish Chicken",
+									"ar": "دجاج تركي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "دجاج رومي",
+								"id": "743",
+								"mom_id": "455",
+								"locale": {
+									"en": "Chicken turkey",
+									"ar": "دجاج رومي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "دجاج فارسي",
+								"id": "738",
+								"mom_id": "455",
+								"locale": {
+									"en": "Chicken Persian",
+									"ar": "دجاج فارسي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "دجاج فرنسي",
+								"id": "741",
+								"mom_id": "455",
+								"locale": {
+									"en": "French chicken",
+									"ar": "دجاج فرنسي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "دجاج فيومي",
+								"id": "742",
+								"mom_id": "455",
+								"locale": {
+									"en": "Chicken Fiume",
+									"ar": "دجاج فيومي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "مستلزمات دواجن",
+								"id": "744",
+								"mom_id": "455",
+								"locale": {
+									"en": "Poultry Supplies",
+									"ar": "مستلزمات دواجن"
+								},
+								"type": "ANIMAL"
+							}
+						],
+						"type": "ANIMAL"
+					},
+					{
+						"name": "أبل",
+						"locale": { "en": "Camels", "ar": "أبل" },
+						"id": "452",
+						"mom_id": "450",
+						"children": [
+							{
+								"name": "ابل بكار",
+								"id": "755",
+								"mom_id": "452",
+								"locale": {
+									"en": "Camel Bakkar",
+									"ar": "ابل بكار"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "ابل فحول",
+								"id": "752",
+								"mom_id": "452",
+								"locale": {
+									"en": "Camel stallions",
+									"ar": "ابل فحول"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "ابل قعدان",
+								"id": "753",
+								"mom_id": "452",
+								"locale": {
+									"en": "Camel Ka'adan",
+									"ar": "ابل قعدان"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "ابل نياق",
+								"id": "754",
+								"mom_id": "452",
+								"locale": {
+									"en": "Camel Nyak",
+									"ar": "ابل نياق"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "مستلزمات الابل",
+								"id": "756",
+								"mom_id": "452",
+								"locale": {
+									"en": "Camel Supplies",
+									"ar": "مستلزمات الابل"
+								},
+								"type": "ANIMAL"
+							}
+						],
+						"type": "ANIMAL"
+					},
+					{
+						"name": "خيل",
+						"locale": { "en": "Horses", "ar": "خيل" },
+						"id": "454",
+						"mom_id": "450",
+						"children": [
+							{
+								"name": "خيل شعبي",
+								"id": "758",
+								"mom_id": "454",
+								"locale": {
+									"en": "Popular horses",
+									"ar": "خيل شعبي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "خيل مكس",
+								"id": "759",
+								"mom_id": "454",
+								"locale": {
+									"en": "Horse Mix",
+									"ar": "خيل مكس"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "خيل واهو",
+								"id": "757",
+								"mom_id": "454",
+								"locale": {
+									"en": "Horses and Lahu",
+									"ar": "خيل واهو"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "خيل انجليزي",
+								"id": "979",
+								"mom_id": "454",
+								"locale": {
+									"en": "English horses",
+									"ar": "خيل انجليزي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "مستلزمات خيول",
+								"id": "760",
+								"mom_id": "454",
+								"locale": {
+									"en": "Horses Supplies",
+									"ar": "مستلزمات خيول"
+								},
+								"type": "ANIMAL"
+							}
+						],
+						"type": "ANIMAL"
+					},
+					{
+						"name": "كلاب",
+						"locale": { "en": "Dogs", "ar": "كلاب" },
+						"id": "543",
+						"mom_id": "450",
+						"children": [
+							{
+								"name": "كلب بتبول",
+								"id": "764",
+								"mom_id": "543",
+								"locale": {
+									"en": "Dog Bitbool",
+									"ar": "كلب بتبول"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "كلب بومرينيان",
+								"id": "766",
+								"mom_id": "543",
+								"locale": {
+									"en": "Dog Pomeranian",
+									"ar": "كلب بومرينيان"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "كلب جولدن",
+								"id": "768",
+								"mom_id": "543",
+								"locale": {
+									"en": "Golden Dog",
+									"ar": "كلب جولدن"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "كلب جيرمن",
+								"id": "761",
+								"mom_id": "543",
+								"locale": {
+									"en": "Dog Jermaine",
+									"ar": "كلب جيرمن"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "كلب شيتزو",
+								"id": "767",
+								"mom_id": "543",
+								"locale": {
+									"en": "Dog Hitz",
+									"ar": "كلب شيتزو"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "كلب شيواوا",
+								"id": "765",
+								"mom_id": "543",
+								"locale": {
+									"en": "Dog Chihuahua",
+									"ar": "كلب شيواوا"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "كلب مالتيز",
+								"id": "763",
+								"mom_id": "543",
+								"locale": {
+									"en": "Dog Maltaz",
+									"ar": "كلب مالتيز"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "كلب هاسكي",
+								"id": "762",
+								"mom_id": "543",
+								"locale": {
+									"en": "Husky dog",
+									"ar": "كلب هاسكي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "مستلزمات كلاب",
+								"id": "769",
+								"mom_id": "543",
+								"locale": {
+									"en": "Dogs Supplies",
+									"ar": "مستلزمات كلاب"
+								},
+								"type": "ANIMAL"
+							}
+						],
+						"type": "ANIMAL"
+					},
+					{
+						"name": "بقر",
+						"locale": { "en": "cows", "ar": "بقر" },
+						"id": "569",
+						"mom_id": "450",
+						"children": [
+							{
+								"name": "بقر الماني",
+								"id": "770",
+								"mom_id": "569",
+								"locale": {
+									"en": "German Cow",
+									"ar": "بقر الماني"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "بقر بلدي",
+								"id": "772",
+								"mom_id": "569",
+								"locale": {
+									"en": "Native Cow",
+									"ar": "بقر بلدي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "بقر جرسي",
+								"id": "774",
+								"mom_id": "569",
+								"locale": {
+									"en": "Jersey Cow",
+									"ar": "بقر جرسي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "بقر سويسري",
+								"id": "773",
+								"mom_id": "569",
+								"locale": {
+									"en": "Swiss Cow",
+									"ar": "بقر سويسري"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "بقر هولندي",
+								"id": "771",
+								"mom_id": "569",
+								"locale": {
+									"en": "Dutch Cow",
+									"ar": "بقر هولندي"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "منتجات ابقار",
+								"id": "775",
+								"mom_id": "569",
+								"locale": {
+									"en": "Cattle Products",
+									"ar": "منتجات ابقار"
+								},
+								"type": "ANIMAL"
+							}
+						],
+						"type": "ANIMAL"
+					},
+					{
+						"name": "أسماك وسلاحف",
+						"id": "701",
+						"mom_id": "450",
+						"children": [
+							{
+								"name": "اسماك",
+								"id": "779",
+								"mom_id": "701",
+								"locale": { "en": "Fish", "ar": "اسماك" },
+								"type": "ANIMAL"
+							},
+							{
+								"name": "سلاحف",
+								"id": "780",
+								"mom_id": "701",
+								"locale": { "en": "Turtles", "ar": "سلاحف" },
+								"type": "ANIMAL"
+							}
+						],
+						"locale": {
+							"en": "Fish and turtles",
+							"ar": "أسماك وسلاحف"
+						},
+						"type": "ANIMAL"
+					},
+					{
+						"name": "ارانب",
+						"id": "706",
+						"mom_id": "450",
+						"locale": { "en": "Rabbits", "ar": "ارانب" },
+						"type": "ANIMAL"
+					},
+					{
+						"name": "بط",
+						"id": "702",
+						"mom_id": "450",
+						"children": [
+							{
+								"name": "بط بكيني",
+								"id": "776",
+								"mom_id": "702",
+								"locale": {
+									"en": "Duck Bikini",
+									"ar": "بط بكيني"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "بط شرشري",
+								"id": "777",
+								"mom_id": "702",
+								"locale": {
+									"en": "Duck Hurcra",
+									"ar": "بط شرشري"
+								},
+								"type": "ANIMAL"
+							},
+							{
+								"name": "وز",
+								"id": "778",
+								"mom_id": "702",
+								"locale": { "en": "Geese", "ar": "وز" },
+								"type": "ANIMAL"
+							}
+						],
+						"locale": { "en": "Duck", "ar": "بط" },
+						"type": "ANIMAL"
+					},
+					{
+						"name": "سناجب",
+						"id": "705",
+						"mom_id": "450",
+						"locale": { "en": "Squirrels", "ar": "سناجب" },
+						"type": "ANIMAL"
+					},
+					{
+						"name": "هامستر",
+						"id": "703",
+						"mom_id": "450",
+						"locale": { "en": "Hamsters", "ar": "هامستر" },
+						"type": "ANIMAL"
+					},
+					{
+						"name": "وبر",
+						"id": "704",
+						"mom_id": "450",
+						"locale": { "en": "Hyrax", "ar": "وبر" },
+						"type": "ANIMAL"
+					}
+				],
+				"type": "MAIN"
+			},
+			{
+				"name": "اثاث",
+				"locale": { "en": "Furniture", "ar": "اثاث" },
+				"id": "501",
+				"mom_id": "4",
+				"children": [
+					{
+						"name": "أثاث خارجي",
+						"id": "678",
+						"mom_id": "501",
+						"locale": {
+							"en": "Outdoor furniture",
+							"ar": "أثاث خارجي"
+						},
+						"type": "FURNITURE"
+					},
+					{
+						"name": "أثاث مكتبي",
+						"id": "679",
+						"mom_id": "501",
+						"locale": {
+							"en": "Office Furniture",
+							"ar": "أثاث مكتبي"
+						},
+						"type": "FURNITURE"
+					},
+					{
+						"name": "أدوات منزلية",
+						"id": "680",
+						"mom_id": "501",
+						"locale": { "en": "Houseware", "ar": "أدوات منزلية" },
+						"type": "FURNITURE"
+					},
+					{
+						"name": "أسرة ومراتب",
+						"id": "675",
+						"mom_id": "501",
+						"locale": {
+							"en": "Beds and mattresses",
+							"ar": "أسرة ومراتب"
+						},
+						"type": "FURNITURE"
+					},
+					{
+						"name": "تحف وديكور",
+						"id": "676",
+						"mom_id": "501",
+						"locale": {
+							"en": "Antiques and decor",
+							"ar": "تحف وديكور"
+						},
+						"type": "FURNITURE"
+					},
+					{
+						"name": "خزائن ودواليب",
+						"id": "677",
+						"mom_id": "501",
+						"locale": {
+							"en": "Cabinets and cupboards",
+							"ar": "خزائن ودواليب"
+						},
+						"type": "FURNITURE"
+					},
+					{
+						"name": "طاولات وكراسي",
+						"id": "674",
+						"mom_id": "501",
+						"locale": {
+							"en": "tables and chairs",
+							"ar": "طاولات وكراسي"
+						},
+						"type": "FURNITURE"
+					},
+					{
+						"name": "مجالس ومفروشات",
+						"id": "673",
+						"mom_id": "501",
+						"locale": {
+							"en": "Sofas and furnishings",
+							"ar": "مجالس ومفروشات"
+						},
+						"type": "FURNITURE"
+					}
+				],
+				"type": "MAIN"
+			},
+			{
+				"name": "مستلزمات شخصية",
+				"locale": {
+					"en": "Personal Accessories",
+					"ar": "مستلزمات شخصية"
+				},
+				"id": "506",
+				"mom_id": "4",
+				"children": [
+					{
+						"name": "ساعات",
+						"locale": { "en": "Watches", "ar": "ساعات" },
+						"id": "535",
+						"mom_id": "506",
+						"children": [
+							{
+								"name": "ساعات اخرى",
+								"id": "1006",
+								"mom_id": "535",
+								"locale": {
+									"en": "Other watches",
+									"ar": "ساعات اخرى"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "ساعات رجالية",
+								"id": "1004",
+								"mom_id": "535",
+								"locale": {
+									"en": "men's watches",
+									"ar": "ساعات رجالية"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "ساعات نسائية",
+								"id": "1005",
+								"mom_id": "535",
+								"locale": {
+									"en": "women watches",
+									"ar": "ساعات نسائية"
+								},
+								"type": "STUFF"
+							}
+						],
+						"type": "STUFF"
+					},
+					{
+						"name": "عطورات",
+						"locale": {
+							"en": "Perfumes and Incense",
+							"ar": "عطور و بخور"
+						},
+						"id": "537",
+						"mom_id": "506",
+						"children": [
+							{
+								"name": "عطور اخرى",
+								"id": "1010",
+								"mom_id": "537",
+								"locale": {
+									"en": "Other perfumes",
+									"ar": "عطور اخرى"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "عطور رجالية",
+								"id": "1008",
+								"mom_id": "537",
+								"locale": {
+									"en": "Men's Fragrances",
+									"ar": "عطور رجالية"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "عطور نسائية",
+								"id": "1007",
+								"mom_id": "537",
+								"locale": {
+									"en": "Women Fragrances",
+									"ar": "عطور نسائية"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "عود وبخور",
+								"id": "1009",
+								"mom_id": "537",
+								"locale": {
+									"en": "Oud and Incense",
+									"ar": "عود وبخور"
+								},
+								"type": "STUFF"
+							}
+						],
+						"type": "STUFF"
+					},
+					{
+						"name": "مستلزمات رياضية",
+						"locale": {
+							"en": "Sports Accessories",
+							"ar": "مستلزمات رياضية"
+						},
+						"id": "541",
+						"mom_id": "506",
+						"type": "STUFF"
+					},
+					{
+						"name": "نظارات",
+						"locale": { "en": "Glasses", "ar": "نظارات" },
+						"id": "536",
+						"mom_id": "506",
+						"children": [
+							{
+								"name": "نظارات اخرى",
+								"id": "1001",
+								"mom_id": "536",
+								"locale": {
+									"en": "Other glasses",
+									"ar": "نظارات اخرى"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "نظارات رجالية",
+								"id": "999",
+								"mom_id": "536",
+								"locale": {
+									"en": "Men's glasses",
+									"ar": "نظارات رجالية"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "نظارات نسائية",
+								"id": "1000",
+								"mom_id": "536",
+								"locale": {
+									"en": "Women's glasses",
+									"ar": "نظارات نسائية"
+								},
+								"type": "STUFF"
+							}
+						],
+						"type": "STUFF"
+					},
+					{
+						"name": "ملابس رجالية",
+						"locale": { "en": "Man Clothes", "ar": "أزياء رجالية" },
+						"id": "540",
+						"mom_id": "506",
+						"children": [
+							{
+								"name": "أشمغة رجالية",
+								"id": "1025",
+								"mom_id": "540",
+								"locale": { "en": "Men", "ar": "أشمغة رجالية" },
+								"type": "STUFF"
+							},
+							{
+								"name": "اكسسوارات رجالية",
+								"id": "1026",
+								"mom_id": "540",
+								"locale": {
+									"en": "Men's Accessories",
+									"ar": "اكسسوارات رجالية"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "ثياب رجالية",
+								"id": "1021",
+								"mom_id": "540",
+								"locale": {
+									"en": "Men 's Clothes",
+									"ar": "ثياب رجالية"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "جاكيتات رجالية",
+								"id": "1023",
+								"mom_id": "540",
+								"locale": {
+									"en": "Men's Jackets",
+									"ar": "جاكيتات رجالية"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "شنط رجالية",
+								"id": "1110",
+								"mom_id": "540",
+								"locale": {
+									"en": "Men's Bags",
+									"ar": "شنط رجالية"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "قمصان وبناطيل رجالية",
+								"id": "1024",
+								"mom_id": "540",
+								"locale": {
+									"en": "Men's Shirts and Pinatories",
+									"ar": "قمصان وبناطيل رجالية"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "ملابس رياضية رجالية",
+								"id": "1022",
+								"mom_id": "540",
+								"locale": {
+									"en": "Men's Sportswear",
+									"ar": "ملابس رياضية رجالية"
+								},
+								"type": "STUFF"
+							}
+						],
+						"type": "STUFF"
+					},
+					{
+						"name": "ملابس نسائية",
+						"locale": {
+							"en": "Women's fashion",
+							"ar": "أزياء نسائية"
+						},
+						"id": "539",
+						"mom_id": "506",
+						"children": [
+							{
+								"name": "اكسسوارات ومجوهرات نسائية",
+								"id": "1020",
+								"mom_id": "539",
+								"locale": {
+									"en": "Women's Jewelry Accessories",
+									"ar": "اكسسوارات ومجوهرات نسائية"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "بلايز وتيشيرتات نسائية",
+								"id": "1017",
+								"mom_id": "539",
+								"locale": {
+									"en": "Tops and Women's Ticherit",
+									"ar": "بلايز وتيشيرتات نسائية"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "تنانير وبناطيل نسائية",
+								"id": "1018",
+								"mom_id": "539",
+								"locale": {
+									"en": "Women 's Skirts and Pineries",
+									"ar": "تنانير وبناطيل نسائية"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "جاكيتات نسائية",
+								"id": "1016",
+								"mom_id": "539",
+								"locale": {
+									"en": "Women's Jackets",
+									"ar": "جاكيتات نسائية"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "جلابيات",
+								"id": "1013",
+								"mom_id": "539",
+								"locale": { "en": "Glavian", "ar": "جلابيات" },
+								"type": "STUFF"
+							},
+							{
+								"name": "شنط نسائية",
+								"id": "1109",
+								"mom_id": "539",
+								"locale": {
+									"en": "women bags",
+									"ar": "شنط نسائية"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "عبايات",
+								"id": "1011",
+								"mom_id": "539",
+								"locale": { "en": "Abaya", "ar": "عبايات" },
+								"type": "STUFF"
+							},
+							{
+								"name": "فساتين",
+								"id": "1012",
+								"mom_id": "539",
+								"locale": { "en": "Dresses", "ar": "فساتين" },
+								"type": "STUFF"
+							},
+							{
+								"name": "لانجري",
+								"id": "1014",
+								"mom_id": "539",
+								"locale": { "en": "Lingerie", "ar": "لانجري" },
+								"type": "STUFF"
+							},
+							{
+								"name": "ملابس رياضية نسائية",
+								"id": "1019",
+								"mom_id": "539",
+								"locale": {
+									"en": "Women's Sportswear",
+									"ar": "ملابس رياضية نسائية"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "ملابس نوم",
+								"id": "1015",
+								"mom_id": "539",
+								"locale": {
+									"en": "Sleepwear",
+									"ar": "ملابس نوم"
+								},
+								"type": "STUFF"
+							}
+						],
+						"type": "STUFF"
+					},
+					{
+						"name": "ملابس أطفال",
+						"locale": {
+							"en": "Kids Clothes",
+							"ar": "أزياء ولوازم أطفال"
+						},
+						"id": "538",
+						"mom_id": "506",
+						"children": [
+							{
+								"name": "أدوات رضع",
+								"id": "1117",
+								"mom_id": "538",
+								"locale": {
+									"en": "Baby tools",
+									"ar": "أدوات رضع"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "اكسسوارات أطفال",
+								"id": "1118",
+								"mom_id": "538",
+								"locale": {
+									"en": "Children's Accessories",
+									"ar": "اكسسوارات أطفال"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "العاب اطفال",
+								"id": "1115",
+								"mom_id": "538",
+								"locale": { "en": "toys", "ar": "العاب اطفال" },
+								"type": "STUFF"
+							},
+							{
+								"name": "سرير وكراسي أطفال",
+								"id": "1116",
+								"mom_id": "538",
+								"locale": {
+									"en": "Bed and children chairs",
+									"ar": "سرير وكراسي أطفال"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "شنط الأطفال",
+								"id": "1119",
+								"mom_id": "538",
+								"locale": {
+									"en": "Children Bags",
+									"ar": "شنط الأطفال"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "عربات أطفال",
+								"id": "1113",
+								"mom_id": "538",
+								"locale": {
+									"en": "Baby carts",
+									"ar": "عربات أطفال"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "مقاعد سيارة للاطفال",
+								"id": "1114",
+								"mom_id": "538",
+								"locale": {
+									"en": "Car seats for children",
+									"ar": "مقاعد سيارة للاطفال"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "ملابس بناتي",
+								"id": "1112",
+								"mom_id": "538",
+								"locale": {
+									"en": "Girls clothes",
+									"ar": "ملابس بناتي"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "ملابس ولادي",
+								"id": "1111",
+								"mom_id": "538",
+								"locale": {
+									"en": "Clothes and births",
+									"ar": "ملابس ولادي"
+								},
+								"type": "STUFF"
+							}
+						],
+						"type": "STUFF"
+					},
+					{
+						"name": "هدايا",
+						"id": "1029",
+						"mom_id": "506",
+						"locale": { "en": "Gifts", "ar": "هدايا" },
+						"type": "STUFF"
+					},
+					{
+						"name": "أمتعة سفر",
+						"id": "1028",
+						"mom_id": "506",
+						"locale": { "en": "Luggage", "ar": "أمتعة سفر" },
+						"type": "STUFF"
+					},
+					{
+						"name": "الصحة والجمال",
+						"id": "1027",
+						"mom_id": "506",
+						"children": [
+							{
+								"name": "العناية بالبشرة",
+								"id": "1084",
+								"mom_id": "1027",
+								"locale": {
+									"en": "Skin care",
+									"ar": "العناية بالبشرة"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "العناية بالشعر",
+								"id": "1085",
+								"mom_id": "1027",
+								"locale": {
+									"en": "Hair care",
+									"ar": "العناية بالشعر"
+								},
+								"type": "STUFF"
+							},
+							{
+								"name": "المكياج",
+								"id": "1083",
+								"mom_id": "1027",
+								"locale": { "en": "Makeup", "ar": "المكياج" },
+								"type": "STUFF"
+							},
+							{
+								"name": "مستحضرات أخرى",
+								"id": "1086",
+								"mom_id": "1027",
+								"locale": {
+									"en": "Other preparations",
+									"ar": "مستحضرات أخرى"
+								},
+								"type": "STUFF"
+							}
+						],
+						"locale": {
+							"en": "Health and beauty",
+							"ar": "الصحة والجمال"
+						},
+						"type": "STUFF"
+					}
+				],
+				"type": "MAIN"
+			},
+			{
+				"name": "خدمات",
+				"locale": { "en": "Services", "ar": "خدمات" },
+				"id": "458",
+				"mom_id": "4",
+				"children": [
+					{
+						"name": "خدمات اخرى",
+						"locale": {
+							"en": "Other services",
+							"ar": "خدمات اخرى"
+						},
+						"id": "498",
+						"mom_id": "458",
+						"type": "SERVICE"
+					},
+					{
+						"name": "خدمات مقاولات",
+						"locale": {
+							"en": "Construction Services",
+							"ar": "خدمات مقاولات"
+						},
+						"id": "463",
+						"mom_id": "458",
+						"type": "SERVICE"
+					},
+					{
+						"name": "خدمات تعقيب",
+						"locale": {
+							"en": "Agent Services",
+							"ar": "خدمات تعقيب"
+						},
+						"id": "459",
+						"mom_id": "458",
+						"type": "SERVICE"
+					},
+					{
+						"name": "خدمات التوصيل",
+						"locale": {
+							"en": "Delivery Services",
+							"ar": "خدمات التوصيل"
+						},
+						"id": "462",
+						"mom_id": "458",
+						"type": "SERVICE"
+					},
+					{
+						"name": "خدمات نقل العفش",
+						"locale": {
+							"en": "Furniture Transfering Services",
+							"ar": "خدمات نقل العفش"
+						},
+						"id": "461",
+						"mom_id": "458",
+						"type": "SERVICE"
+					},
+					{
+						"name": "خدمات نظافة",
+						"locale": {
+							"en": "Cleaning Services",
+							"ar": "خدمات نظافة"
+						},
+						"id": "460",
+						"mom_id": "458",
+						"type": "SERVICE"
+					},
+					{
+						"name": "خدمات الشراء من المواقع العالمية",
+						"locale": {
+							"en": "Buying From Foregin Websites Services",
+							"ar": "خدمات الشراء من المواقع العالمية"
+						},
+						"id": "464",
+						"mom_id": "458",
+						"type": "SERVICE"
+					}
+				],
+				"type": "SERVICE"
+			},
+			{
+				"name": "وظائف",
+				"id": "883",
+				"mom_id": "4",
+				"locale": { "en": "Jobs", "ar": "وظائف" },
+				"type": "OTHER",
+				"children": [
+					{
+						"name": "وظائف اداريه",
+						"id": "1047",
+						"mom_id": "883",
+						"children": [
+							{
+								"name": "اداري وموارد بشرية",
+								"id": "1096",
+								"mom_id": "1047",
+								"locale": {
+									"en": "Administrative and human resources",
+									"ar": "اداري وموارد بشرية"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "تسويق ومبيعات",
+								"id": "1094",
+								"mom_id": "1047",
+								"locale": {
+									"en": "Marketing and Sales",
+									"ar": "تسويق ومبيعات"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "خدمة عملاء",
+								"id": "1103",
+								"mom_id": "1047",
+								"locale": {
+									"en": "customer service",
+									"ar": "خدمة عملاء"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "سكرتير",
+								"id": "1097",
+								"mom_id": "1047",
+								"locale": { "en": "secretary", "ar": "سكرتير" },
+								"type": "SERVICE"
+							},
+							{
+								"name": "سياحة وفندقة",
+								"id": "1098",
+								"mom_id": "1047",
+								"locale": {
+									"en": "Tourism and hotel",
+									"ar": "سياحة وفندقة"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "كاشير",
+								"id": "1100",
+								"mom_id": "1047",
+								"locale": { "en": "Casher", "ar": "كاشير" },
+								"type": "SERVICE"
+							},
+							{
+								"name": "محاسب",
+								"id": "1095",
+								"mom_id": "1047",
+								"locale": { "en": "Accountant", "ar": "محاسب" },
+								"type": "SERVICE"
+							},
+							{
+								"name": "مندوب توصيل",
+								"id": "1102",
+								"mom_id": "1047",
+								"locale": {
+									"en": "Delegate delivery",
+									"ar": "مندوب توصيل"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظائف اداريه اخرى",
+								"id": "1106",
+								"mom_id": "1047",
+								"locale": {
+									"en": "Other administrative functions",
+									"ar": "وظائف اداريه اخرى"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظيفة علاقات واعلام",
+								"id": "1099",
+								"mom_id": "1047",
+								"locale": {
+									"en": "Function relationships and information",
+									"ar": "وظيفة علاقات واعلام"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظيفة مترجم لغات",
+								"id": "1101",
+								"mom_id": "1047",
+								"locale": {
+									"en": "Posts Translator Languages",
+									"ar": "وظيفة مترجم لغات"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظيفة محامي وقانوني",
+								"id": "1105",
+								"mom_id": "1047",
+								"locale": {
+									"en": "A lawyer and legal function",
+									"ar": "وظيفة محامي وقانوني"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظيفة معقب ومخلص",
+								"id": "1104",
+								"mom_id": "1047",
+								"locale": {
+									"en": "A and sincere job",
+									"ar": "وظيفة معقب ومخلص"
+								},
+								"type": "SERVICE"
+							}
+						],
+						"locale": {
+							"en": "Administrative functions",
+							"ar": "وظائف اداريه"
+						},
+						"type": "SERVICE"
+					},
+					{
+						"name": "وظائف ازياء وتجميل",
+						"id": "1042",
+						"mom_id": "883",
+						"children": [
+							{
+								"name": "حلاق",
+								"id": "1093",
+								"mom_id": "1042",
+								"locale": { "en": "Barber", "ar": "حلاق" },
+								"type": "SERVICE"
+							},
+							{
+								"name": "خياطة",
+								"id": "1088",
+								"mom_id": "1042",
+								"locale": { "en": "sewing", "ar": "خياطة" },
+								"type": "SERVICE"
+							},
+							{
+								"name": "كوفيره",
+								"id": "1087",
+								"mom_id": "1042",
+								"locale": { "en": "Come on", "ar": "كوفيره" },
+								"type": "SERVICE"
+							},
+							{
+								"name": "مصممة ازياء",
+								"id": "1089",
+								"mom_id": "1042",
+								"locale": {
+									"en": "fashion designer",
+									"ar": "مصممة ازياء"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "مودل",
+								"id": "1090",
+								"mom_id": "1042",
+								"locale": { "en": "Modal", "ar": "مودل" },
+								"type": "SERVICE"
+							},
+							{
+								"name": "ميك اب ارتست",
+								"id": "1091",
+								"mom_id": "1042",
+								"locale": {
+									"en": "Mick Artist",
+									"ar": "ميك اب ارتست"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "هير ستايل",
+								"id": "1092",
+								"mom_id": "1042",
+								"locale": {
+									"en": "Hair Style",
+									"ar": "هير ستايل"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظائف تجميل اخرى",
+								"id": "1107",
+								"mom_id": "1042",
+								"locale": {
+									"en": "Other Beauty Jobs",
+									"ar": "وظائف تجميل اخرى"
+								},
+								"type": "SERVICE"
+							}
+						],
+						"locale": {
+							"en": "Costumes and beauty jobs",
+							"ar": "وظائف ازياء وتجميل"
+						},
+						"type": "SERVICE"
+					},
+					{
+						"name": "وظائف امن وسلامة",
+						"id": "1050",
+						"mom_id": "883",
+						"children": [
+							{
+								"name": "وظائف امنيه اخرى",
+								"id": "1076",
+								"mom_id": "1050",
+								"locale": {
+									"en": "Other security functions",
+									"ar": "وظائف امنيه اخرى"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظيفة حارس امن",
+								"id": "1074",
+								"mom_id": "1050",
+								"locale": {
+									"en": "Security guard function",
+									"ar": "وظيفة حارس امن"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظيفة فني سلامة",
+								"id": "1075",
+								"mom_id": "1050",
+								"locale": {
+									"en": "Safety technician function",
+									"ar": "وظيفة فني سلامة"
+								},
+								"type": "SERVICE"
+							}
+						],
+						"locale": {
+							"en": "Security and safety jobs",
+							"ar": "وظائف امن وسلامة"
+						},
+						"type": "SERVICE"
+					},
+					{
+						"name": "وظائف تعليمية",
+						"id": "1049",
+						"mom_id": "883",
+						"locale": {
+							"en": "Educational functions",
+							"ar": "وظائف تعليمية"
+						},
+						"type": "SERVICE"
+					},
+					{
+						"name": "وظائف تقنية وتصميم",
+						"id": "1048",
+						"mom_id": "883",
+						"children": [
+							{
+								"name": "ادارة حسابات التواصل",
+								"id": "1080",
+								"mom_id": "1048",
+								"locale": {
+									"en": "Management of communication accounts",
+									"ar": "ادارة حسابات التواصل"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظائف تقنية اخرى",
+								"id": "1082",
+								"mom_id": "1048",
+								"locale": {
+									"en": "Other technical functions",
+									"ar": "وظائف تقنية اخرى"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظيفة شبكات واتصالات",
+								"id": "1079",
+								"mom_id": "1048",
+								"locale": {
+									"en": "Jobs and communications",
+									"ar": "وظيفة شبكات واتصالات"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظيفة كاتب محتوى",
+								"id": "1081",
+								"mom_id": "1048",
+								"locale": {
+									"en": "Content writer function",
+									"ar": "وظيفة كاتب محتوى"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظيفة مبرمج",
+								"id": "1077",
+								"mom_id": "1048",
+								"locale": {
+									"en": "Programmer function",
+									"ar": "وظيفة مبرمج"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظيفة مصمم ميديا",
+								"id": "1078",
+								"mom_id": "1048",
+								"locale": {
+									"en": "Media designer function",
+									"ar": "وظيفة مصمم ميديا"
+								},
+								"type": "SERVICE"
+							}
+						],
+						"locale": {
+							"en": "Technical and design functions",
+							"ar": "وظائف تقنية وتصميم"
+						},
+						"type": "SERVICE"
+					},
+					{
+						"name": "وظائف زراعة ورعي",
+						"id": "1046",
+						"mom_id": "883",
+						"children": [
+							{
+								"name": "راعي مواشي",
+								"id": "1067",
+								"mom_id": "1046",
+								"locale": {
+									"en": "Shepherds",
+									"ar": "راعي مواشي"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "عامل زراعي",
+								"id": "1066",
+								"mom_id": "1046",
+								"locale": {
+									"en": "Agricultural worker",
+									"ar": "عامل زراعي"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظائف زراعية اخرى",
+								"id": "1068",
+								"mom_id": "1046",
+								"locale": {
+									"en": "Other Agricultural Jobs",
+									"ar": "وظائف زراعية اخرى"
+								},
+								"type": "SERVICE"
+							}
+						],
+						"locale": {
+							"en": "Agricultural and grazing functions",
+							"ar": "وظائف زراعة ورعي"
+						},
+						"type": "SERVICE"
+					},
+					{
+						"name": "وظائف صناعية",
+						"id": "1045",
+						"mom_id": "883",
+						"children": [
+							{
+								"name": "دهان سيارات",
+								"id": "1071",
+								"mom_id": "1045",
+								"locale": {
+									"en": "Car paint",
+									"ar": "دهان سيارات"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "سمكري",
+								"id": "1070",
+								"mom_id": "1045",
+								"locale": { "en": "plumber", "ar": "سمكري" },
+								"type": "SERVICE"
+							},
+							{
+								"name": "كهربائي سيارات",
+								"id": "1069",
+								"mom_id": "1045",
+								"locale": {
+									"en": "Car electrician",
+									"ar": "كهربائي سيارات"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "ميكانيكي سيارات",
+								"id": "1072",
+								"mom_id": "1045",
+								"locale": {
+									"en": "car mechanic",
+									"ar": "ميكانيكي سيارات"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظائف صناعية اخرى",
+								"id": "1073",
+								"mom_id": "1045",
+								"locale": {
+									"en": "Other Industrial Jobs",
+									"ar": "وظائف صناعية اخرى"
+								},
+								"type": "SERVICE"
+							}
+						],
+						"locale": {
+							"en": "Industrial Jobs",
+							"ar": "وظائف صناعية"
+						},
+						"type": "SERVICE"
+					},
+					{
+						"name": "وظائف طب وتمريض",
+						"id": "1044",
+						"mom_id": "883",
+						"children": [
+							{
+								"name": "بيطري",
+								"id": "1060",
+								"mom_id": "1044",
+								"locale": { "en": "veterinary", "ar": "بيطري" },
+								"type": "SERVICE"
+							},
+							{
+								"name": "صيدلي",
+								"id": "1063",
+								"mom_id": "1044",
+								"locale": { "en": "pharmacist", "ar": "صيدلي" },
+								"type": "SERVICE"
+							},
+							{
+								"name": "طبيب",
+								"id": "1061",
+								"mom_id": "1044",
+								"locale": { "en": "doctor", "ar": "طبيب" },
+								"type": "SERVICE"
+							},
+							{
+								"name": "فني علاج طبيعي",
+								"id": "1064",
+								"mom_id": "1044",
+								"locale": {
+									"en": "Physical treatment technician",
+									"ar": "فني علاج طبيعي"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "فني مساج",
+								"id": "1108",
+								"mom_id": "1044",
+								"locale": {
+									"en": "Massage Technician",
+									"ar": "فني مساج"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "ممرض",
+								"id": "1062",
+								"mom_id": "1044",
+								"locale": { "en": "nurse", "ar": "ممرض" },
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظائف طبية اخرى",
+								"id": "1065",
+								"mom_id": "1044",
+								"locale": {
+									"en": "Other Medical Jobs",
+									"ar": "وظائف طبية اخرى"
+								},
+								"type": "SERVICE"
+							}
+						],
+						"locale": {
+							"en": "Jobs Medical and Nursing",
+							"ar": "وظائف طب وتمريض"
+						},
+						"type": "SERVICE"
+					},
+					{
+						"name": "وظائف عمارة وبناء",
+						"id": "1002",
+						"mom_id": "883",
+						"children": [
+							{
+								"name": "حداد",
+								"id": "1034",
+								"mom_id": "1002",
+								"locale": { "en": "Smith", "ar": "حداد" },
+								"type": "SERVICE"
+							},
+							{
+								"name": "دهان مباني",
+								"id": "1031",
+								"mom_id": "1002",
+								"locale": {
+									"en": "Paint buildings",
+									"ar": "دهان مباني"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "فني تكييف",
+								"id": "1035",
+								"mom_id": "1002",
+								"locale": {
+									"en": "Air conditioning technician",
+									"ar": "فني تكييف"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "فني ديكور",
+								"id": "1039",
+								"mom_id": "1002",
+								"locale": {
+									"en": "Decoration Technician",
+									"ar": "فني ديكور"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "كهربائي مباني",
+								"id": "1030",
+								"mom_id": "1002",
+								"locale": {
+									"en": "electric buildings",
+									"ar": "كهربائي مباني"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "مبلط",
+								"id": "1032",
+								"mom_id": "1002",
+								"locale": { "en": "paved", "ar": "مبلط" },
+								"type": "SERVICE"
+							},
+							{
+								"name": "مشرف مباني",
+								"id": "1036",
+								"mom_id": "1002",
+								"locale": {
+									"en": "Building Supervisor",
+									"ar": "مشرف مباني"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "مقاول مباني",
+								"id": "1037",
+								"mom_id": "1002",
+								"locale": {
+									"en": "Building Contractor",
+									"ar": "مقاول مباني"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "مليس",
+								"id": "1038",
+								"mom_id": "1002",
+								"locale": { "en": "Malis", "ar": "مليس" },
+								"type": "SERVICE"
+							},
+							{
+								"name": "نجار",
+								"id": "1033",
+								"mom_id": "1002",
+								"locale": { "en": "Carpenter", "ar": "نجار" },
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظائف بناء اخرى",
+								"id": "1040",
+								"mom_id": "1002",
+								"locale": {
+									"en": "Other construction functions",
+									"ar": "وظائف بناء اخرى"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظيفة سباك",
+								"id": "1003",
+								"mom_id": "1002",
+								"locale": {
+									"en": "Plumber function",
+									"ar": "وظيفة سباك"
+								},
+								"type": "SERVICE"
+							}
+						],
+						"locale": {
+							"en": "Building and building jobs",
+							"ar": "وظائف عمارة وبناء"
+						},
+						"type": "SERVICE"
+					},
+					{
+						"name": "وظائف عمالة منزلية",
+						"id": "1043",
+						"mom_id": "883",
+						"children": [
+							{
+								"name": "جليسة ومربية اطفال",
+								"id": "1058",
+								"mom_id": "1043",
+								"locale": {
+									"en": "Babysitter and Children",
+									"ar": "جليسة ومربية اطفال"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "سائق خاص",
+								"id": "1055",
+								"mom_id": "1043",
+								"locale": {
+									"en": "personal driver",
+									"ar": "سائق خاص"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "عامل منزلي",
+								"id": "1057",
+								"mom_id": "1043",
+								"locale": {
+									"en": "Domestic worker",
+									"ar": "عامل منزلي"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "عاملة منزلية",
+								"id": "1056",
+								"mom_id": "1043",
+								"locale": {
+									"en": "a house keeper",
+									"ar": "عاملة منزلية"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظائف عماله اخرى",
+								"id": "1059",
+								"mom_id": "1043",
+								"locale": {
+									"en": "Jobs Other Workers",
+									"ar": "وظائف عماله اخرى"
+								},
+								"type": "SERVICE"
+							}
+						],
+						"locale": {
+							"en": "Home employment jobs",
+							"ar": "وظائف عمالة منزلية"
+						},
+						"type": "SERVICE"
+					},
+					{
+						"name": "وظائف مطاعم",
+						"id": "1041",
+						"mom_id": "883",
+						"children": [
+							{
+								"name": "باريستا",
+								"id": "1051",
+								"mom_id": "1041",
+								"locale": { "en": "Parista", "ar": "باريستا" },
+								"type": "SERVICE"
+							},
+							{
+								"name": "شيف ومعلم",
+								"id": "1052",
+								"mom_id": "1041",
+								"locale": {
+									"en": "Chef and teacher",
+									"ar": "شيف ومعلم"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "قهوجي ومضيف",
+								"id": "1053",
+								"mom_id": "1041",
+								"locale": {
+									"en": "Kahwaji and host",
+									"ar": "قهوجي ومضيف"
+								},
+								"type": "SERVICE"
+							},
+							{
+								"name": "وظائف مطاعم اخرى",
+								"id": "1054",
+								"mom_id": "1041",
+								"locale": {
+									"en": "Other Restaurants Jobs",
+									"ar": "وظائف مطاعم اخرى"
+								},
+								"type": "SERVICE"
+							}
+						],
+						"locale": {
+							"en": "Jobs Restaurants",
+							"ar": "وظائف مطاعم"
+						},
+						"type": "SERVICE"
+					}
+				]
+			},
+			{
+				"name": "اطعمة ومشروبات",
+				"id": "882",
+				"mom_id": "4",
+				"locale": {
+					"en": "Food and beverages",
+					"ar": "اطعمة ومشروبات"
+				},
+				"type": "OTHER"
+			},
+			{
+				"name": "العاب وترفيه",
+				"id": "881",
+				"mom_id": "4",
+				"locale": {
+					"en": "Games and Entertainment",
+					"ar": "العاب وترفيه"
+				},
+				"type": "OTHER"
+			},
+			{
+				"name": "صيد ورحلات",
+				"id": "880",
+				"mom_id": "4",
+				"locale": { "en": "Hunting and Trips", "ar": "صيد ورحلات" },
+				"type": "OTHER"
+			},
+			{
+				"name": "زراعة وحدائق",
+				"id": "879",
+				"mom_id": "4",
+				"locale": {
+					"en": "Cultivation and Gardens",
+					"ar": "زراعة وحدائق"
+				},
+				"type": "OTHER"
+			},
+			{
+				"name": "برمجة وتصاميم",
+				"id": "878",
+				"mom_id": "4",
+				"locale": {
+					"en": "Programming and designs",
+					"ar": "برمجة وتصاميم"
+				},
+				"type": "OTHER"
+			},
+			{
+				"name": "حفلات ومناسبات",
+				"id": "877",
+				"mom_id": "4",
+				"locale": {
+					"en": "Parties and events",
+					"ar": "حفلات ومناسبات"
+				},
+				"type": "OTHER"
+			},
+			{
+				"name": "مكتبة وفنون",
+				"id": "876",
+				"mom_id": "4",
+				"locale": { "en": "Library and Arts", "ar": "مكتبة وفنون" },
+				"type": "OTHER"
+			},
+			{
+				"name": "سفر وسياحة",
+				"id": "875",
+				"mom_id": "4",
+				"locale": { "en": "Travel and Tourism", "ar": "سفر وسياحة" },
+				"type": "OTHER"
+			},
+			{
+				"name": "قسم غير مصنف",
+				"locale": {
+					"en": "Uncategorized Section",
+					"ar": "قسم غير مصنف"
+				},
+				"id": "507",
+				"mom_id": "4",
+				"type": "OTHER"
+			},
+			{
+				"name": "مفقودات",
+				"id": "988",
+				"mom_id": "4",
+				"locale": { "en": "Missing", "ar": "مفقودات وموجودات" },
+				"type": "OTHER"
+			},
+			{
+				"name": "تعليم وتدريب",
+				"id": "992",
+				"mom_id": "4",
+				"children": [
+					{
+						"name": "تدريب العاب الكترونية",
+						"id": "996",
+						"mom_id": "992",
+						"locale": {
+							"en": "Electronic Games Training",
+							"ar": "تدريب العاب الكترونية"
+						},
+						"type": "SERVICE"
+					},
+					{
+						"name": "تدريب رياضي",
+						"id": "995",
+						"mom_id": "992",
+						"locale": {
+							"en": "Sports Exercices",
+							"ar": "تدريب رياضي"
+						},
+						"type": "SERVICE"
+					},
+					{
+						"name": "تعليم اسهم وعملات",
+						"id": "997",
+						"mom_id": "992",
+						"locale": {
+							"en": "Education shares and currencies",
+							"ar": "تعليم اسهم وعملات"
+						},
+						"type": "SERVICE"
+					},
+					{
+						"name": "تعليم قيادة",
+						"id": "994",
+						"mom_id": "992",
+						"locale": { "en": "Leading", "ar": "تعليم قيادة" },
+						"type": "SERVICE"
+					},
+					{
+						"name": "دروس خصوصية",
+						"id": "993",
+						"mom_id": "992",
+						"locale": {
+							"en": "Private classes",
+							"ar": "دروس خصوصية"
+						},
+						"type": "SERVICE"
+					},
+					{
+						"name": "دورات تدريبية",
+						"id": "998",
+						"mom_id": "992",
+						"locale": {
+							"en": "Training courses",
+							"ar": "دورات تدريبية"
+						},
+						"type": "SERVICE"
+					}
+				],
+				"locale": {
+					"en": "Education and training",
+					"ar": "تعليم وتدريب"
+				},
+				"type": "SERVICE"
+			}
+		],
+		"type": "MAIN"
+	}
+]
